@@ -14,8 +14,6 @@
     
     Sales grew month-over-month (8–12%), peaking in December. A **dip occurred during November**, likely due to college exams and fewer footfalls.
     
-    ![image.png](attachment:e77d8afc-7ff9-4128-ab61-5e8ad00c7d28:image.png)
-    
 4. **Best & Worst Product Performance**
     - **Top Sellers**: Herb Chili Potato and Margherita (Medium)
     - **Low Performers**: Sandwich, Noodles
@@ -31,3 +29,4 @@
 - Launch Monday–Tuesday discounts
 - Push combo deals with fries and drinks
 - Improve packaging for small items
+
