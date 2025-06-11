@@ -1,3 +1,7 @@
+#Italian Pizza Art Analysis
+
+Dashboard: View on Microsoft Fabric
+
 1. **Project Background**
     
     Designed and deployed a dynamic Power BI dashboard for a food retail business, showcasing insights from 5 months of transactional data. Cleaned and transformed raw menu data using Python and Excel, balanced item counts to improve visualization accuracy, and derived actionable insights on category revenue, peak hours, and top-selling items.
