@@ -1,0 +1,988 @@
+Date,Time,Item Name,Category,Size,Quantity,Order Status,Ingredients,Price,Datetime
+2024-08-01 00:00:00,10:15:00,Mint Mojito,Drink,,1,,"Mint, Soda, Lime",48,2024-08-01 10:15:00
+2024-08-01 00:00:00,11:00:00,OTC,Pizza,Medium,2,Cancelld,"Cheese, Onion, Tomato, Capsicum",255,2024-08-01 11:00:00
+2024-08-01 00:00:00,12:00:00,Spicy Veggie,Pizza,,2,Done,"Cheese, Onion, Green Chili",99,2024-08-01 12:00:00
+2024-08-01 00:00:00,12:00:00,Spicy Veggie,Pizza,,2,Done,"Cheese, Onion, Green Chili",99,2024-08-01 12:00:00
+2024-08-01 00:00:00,12:00:00,Spicy Veggie,Pizza,,2,Done,"Cheese, Onion, Green Chili",99,2024-08-01 12:00:00
+2024-08-01 00:00:00,15:30:00,OTC,Pizza,Medium,2,Cancelld,"Cheese, Onion, Tomato, Capsicum",255,2024-08-01 15:30:00
+2024-08-01 00:00:00,15:30:00,OTC,Pizza,Medium,2,Cancelld,"Cheese, Onion, Tomato, Capsicum",255,2024-08-01 15:30:00
+2024-08-01 00:00:00,17:00:00,Country Feast,Pizza,Medium,3,Done,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",233,2024-08-01 17:00:00
+2024-08-01 00:00:00,18:45:00,Country Feast,Pizza,Medium,3,Done,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",233,2024-08-01 18:45:00
+2024-08-01 00:00:00,18:45:00,Country Feast,Pizza,Medium,3,Done,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",233,2024-08-01 18:45:00
+2024-08-02 00:00:00,10:15:00,Oreo Shake,Shake,,2,Cancelld,"Milk, Oreo, Chocolate",262,2024-08-02 10:15:00
+2024-08-02 00:00:00,18:00:00,Double Trouble,Burger,,3,Cancelld,"Double Patty, Cheese, Onion",180,2024-08-02 18:00:00
+2024-08-02 00:00:00,18:00:00,Double Trouble,Burger,,3,Cancelld,"Double Patty, Cheese, Onion",180,2024-08-02 18:00:00
+2024-08-02 00:00:00,18:00:00,Double Trouble,Burger,,3,Cancelld,"Double Patty, Cheese, Onion",180,2024-08-02 18:00:00
+2024-08-02 00:00:00,18:30:00,Cheese Wrap,Garlic Bread,,2,,"Bread, Garlic, Cheese",276,2024-08-02 18:30:00
+2024-08-02 00:00:00,21:00:00,Mix Sauc3 Pasta,Pasta,,,Completed,"Pasta, Red Sauce, White Sauce, Veggies",194,2024-08-02 21:00:00
+2024-08-03 00:00:00,14:30:00,Vegetable Maggie,Maggie,,2,,"Maggie, Vegetables, Spices",,2024-08-03 14:30:00
+2024-08-03 00:00:00,20:45:00,Strawberry Shake,Shake,,3,Done,"Milk, Strawberry Syrup",83,2024-08-03 20:45:00
+2024-08-04 00:00:00,11:30:00,Sandwich,Burger,,1,Completed,Extra Cheese Slice,292,2024-08-04 11:30:00
+2024-08-04 00:00:00,11:30:00,Sandwich,Burger,,1,Completed,Extra Cheese Slice,292,2024-08-04 11:30:00
+2024-08-04 00:00:00,16:30:00,Margherita,Pizza,Medium,2,Cancelld,Classic Cheese,138,2024-08-04 16:30:00
+2024-08-04 00:00:00,16:30:00,Chocolate Shake,Shake,,3,Pendng,"Milk, Chocolate Syrup",129,2024-08-04 16:30:00
+2024-08-04 00:00:00,16:30:00,Margherita,Pizza,Medium,2,Cancelld,Classic Cheese,138,2024-08-04 16:30:00
+2024-08-04 00:00:00,17:00:00,Margherita,Pizza,Medium,2,Cancelld,Classic Cheese,138,2024-08-04 17:00:00
+2024-08-04 00:00:00,17:00:00,Sandwich,Burger,,1,Completed,Extra Cheese Slice,292,2024-08-04 17:00:00
+2024-08-05 00:00:00,11:00:00,Veg Popular,Burger,,4,Pendng,"Veg Patty, Lettuce, Tomato",168,2024-08-05 11:00:00
+2024-08-05 00:00:00,11:15:00,Whit3 Sauc3 Pasta,Pasta,,3,Done,"Pasta, White Sauce, Corn",70,2024-08-05 11:15:00
+2024-08-05 00:00:00,17:00:00,Exotica,Pizza,Medium,1,,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",215,2024-08-05 17:00:00
+2024-08-05 00:00:00,17:15:00,Exotica,Pizza,Medium,1,,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",215,2024-08-05 17:15:00
+2024-08-05 00:00:00,17:15:00,Exotica,Pizza,Medium,1,,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",215,2024-08-05 17:15:00
+2024-08-05 00:00:00,19:30:00,Veg Popular,Burger,,4,Pendng,"Veg Patty, Lettuce, Tomato",168,2024-08-05 19:30:00
+2024-08-05 00:00:00,19:30:00,Veg Popular,Burger,,4,Pendng,"Veg Patty, Lettuce, Tomato",168,2024-08-05 19:30:00
+2024-08-05 00:00:00,22:00:00,Mix Sauce Pasta,Pasta,,1,Cancelld,"Pasta, Red Sauce, White Sauce, Veggies",258,2024-08-05 22:00:00
+2024-08-06 00:00:00,11:00:00,Spicy Paneer,Burger,,3,Completed,"Paneer Patty, Spices, Onion",195,2024-08-06 11:00:00
+2024-08-06 00:00:00,12:00:00,Margherita,Pizza,Medium,1,,Classic Cheese,298,2024-08-06 12:00:00
+2024-08-06 00:00:00,12:00:00,Margherita,Pizza,Medium,1,,Classic Cheese,298,2024-08-06 12:00:00
+2024-08-06 00:00:00,12:00:00,Margherita,Pizza,Medium,1,,Classic Cheese,298,2024-08-06 12:00:00
+2024-08-06 00:00:00,14:00:00,Oreo Shake,Shake,,1,Completed,"Milk, Oreo, Chocolate",231,2024-08-06 14:00:00
+2024-08-06 00:00:00,20:15:00,V3g3tabl3 Maggi3,Maggie,,1,Done,"Maggie, Vegetables, Spices",156,2024-08-06 20:15:00
+2024-08-06 00:00:00,22:15:00,Spicy Paneer,Burger,,3,Completed,"Paneer Patty, Spices, Onion",195,2024-08-06 22:15:00
+2024-08-06 00:00:00,22:15:00,Spicy Paneer,Burger,,3,Completed,"Paneer Patty, Spices, Onion",195,2024-08-06 22:15:00
+2024-08-07 00:00:00,11:00:00,Paneer Special,Pizza,Small,1,Completed,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",83,2024-08-07 11:00:00
+2024-08-07 00:00:00,14:00:00,Paneer Special,Pizza,Small,1,Completed,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",83,2024-08-07 14:00:00
+2024-08-07 00:00:00,14:00:00,Paneer Special,Pizza,Small,1,Completed,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",83,2024-08-07 14:00:00
+2024-08-07 00:00:00,16:00:00,Veggie Overloaded,Pizza,Small,,,,147,2024-08-07 16:00:00
+2024-08-07 00:00:00,17:30:00,Veggie Overloaded,Pizza,Small,,,,147,2024-08-07 17:30:00
+2024-08-07 00:00:00,17:30:00,Veggie Overloaded,Pizza,Small,,,,147,2024-08-07 17:30:00
+2024-08-07 00:00:00,22:30:00,Cho3main,Noodles,,1,Cancelld,"Noodles, Vegetables, Sauce",73,2024-08-07 22:30:00
+2024-08-08 00:00:00,11:15:00,Double Trouble,Burger,,3,Completed,"Double Patty, Cheese, Onion",242,2024-08-08 11:15:00
+2024-08-08 00:00:00,11:15:00,Double Trouble,Burger,,3,Completed,"Double Patty, Cheese, Onion",242,2024-08-08 11:15:00
+2024-08-08 00:00:00,17:00:00,Double Trouble,Burger,,3,Completed,"Double Patty, Cheese, Onion",242,2024-08-08 17:00:00
+2024-08-08 00:00:00,20:30:00,Aloo Tikki Wrap,Wrap,,2,Done,"Tikki, Onion, Sauce",140,2024-08-08 20:30:00
+2024-08-09 00:00:00,11:00:00,Paneer Pizza,Pizza,,2,Completed,"Cheese, Paneer, Onion, Tomato",149,2024-08-09 11:00:00
+2024-08-09 00:00:00,11:00:00,Paneer Pizza,Pizza,,2,Completed,"Cheese, Paneer, Onion, Tomato",149,2024-08-09 11:00:00
+2024-08-09 00:00:00,11:00:00,Paneer Pizza,Pizza,,2,Completed,"Cheese, Paneer, Onion, Tomato",149,2024-08-09 11:00:00
+2024-08-09 00:00:00,15:30:00,White Sauce Pasta,Pasta,,3,Pendng,"Pasta, White Sauce, Corn",,2024-08-09 15:30:00
+2024-08-09 00:00:00,17:00:00,Herb Chili Potato,Burger,,2,Pendng,"Potato Patty, Herbs, Chili Flakes",300,2024-08-09 17:00:00
+2024-08-09 00:00:00,19:30:00,Green Apple,Drink,,,Pendng,"Green Apple Syrup, Soda",172,2024-08-09 19:30:00
+2024-08-09 00:00:00,20:45:00,Herb Chili Potato,Burger,,2,Pendng,"Potato Patty, Herbs, Chili Flakes",300,2024-08-09 20:45:00
+2024-08-09 00:00:00,20:45:00,Herb Chili Potato,Burger,,2,Pendng,"Potato Patty, Herbs, Chili Flakes",300,2024-08-09 20:45:00
+2024-08-10 00:00:00,11:00:00,Sandwich Cheese,Sandwich,,2,Cancelld,"Bread, Cheese, Butter",65,2024-08-10 11:00:00
+2024-08-10 00:00:00,12:00:00,Sandwich,Burger,,,,Extra Cheese Slice,147,2024-08-10 12:00:00
+2024-08-10 00:00:00,12:00:00,Sandwich,Burger,,,,Extra Cheese Slice,147,2024-08-10 12:00:00
+2024-08-10 00:00:00,12:00:00,Sandwich,Burger,,,,Extra Cheese Slice,147,2024-08-10 12:00:00
+2024-08-10 00:00:00,20:45:00,Cheese Balls,Appetizer,,3,Pendng,"Cheese, Coating, Spices",,2024-08-10 20:45:00
+2024-08-11 00:00:00,11:00:00,OTC,Pizza,,4,Pendng,"Cheese, Onion, Tomato, Capsicum",293,2024-08-11 11:00:00
+2024-08-11 00:00:00,12:30:00,Margherita,Pizza,,,Cancelld,Classic Cheese,239,2024-08-11 12:30:00
+2024-08-11 00:00:00,12:30:00,Margherita,Pizza,,,Cancelld,Classic Cheese,239,2024-08-11 12:30:00
+2024-08-11 00:00:00,12:30:00,Margherita,Pizza,,,Cancelld,Classic Cheese,239,2024-08-11 12:30:00
+2024-08-11 00:00:00,15:30:00,OTC,Pizza,,4,Pendng,"Cheese, Onion, Tomato, Capsicum",293,2024-08-11 15:30:00
+2024-08-11 00:00:00,15:30:00,OTC,Pizza,,4,Pendng,"Cheese, Onion, Tomato, Capsicum",293,2024-08-11 15:30:00
+2024-08-11 00:00:00,17:00:00,Sandwich Ch33s3,Sandwich,,2,Done,"Bread, Cheese, Butter",287,2024-08-11 17:00:00
+2024-08-11 00:00:00,20:45:00,High Five,Pizza,Small,3,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",185,2024-08-11 20:45:00
+2024-08-11 00:00:00,20:45:00,High Five,Pizza,Small,3,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",185,2024-08-11 20:45:00
+2024-08-11 00:00:00,20:45:00,High Five,Pizza,Small,3,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",185,2024-08-11 20:45:00
+2024-08-11 00:00:00,21:15:00,Paneer Wrap,Wrap,,2,Completed,"Paneer, Sauce, Onion",267,2024-08-11 21:15:00
+2024-08-12 00:00:00,11:00:00,Veggie Delight,Pizza,Small,1,Done,"Cheese, Onion, Capsicum, Sweet Corn",258,2024-08-12 11:00:00
+2024-08-12 00:00:00,13:45:00,Veggie Delight,Pizza,Small,1,Done,"Cheese, Onion, Capsicum, Sweet Corn",258,2024-08-12 13:45:00
+2024-08-12 00:00:00,13:45:00,Veggie Delight,Pizza,Small,1,Done,"Cheese, Onion, Capsicum, Sweet Corn",258,2024-08-12 13:45:00
+2024-08-12 00:00:00,16:00:00,Peri Peri Fries,Appetizer,,1,,"Potato, Peri Peri Masala",287,2024-08-12 16:00:00
+2024-08-12 00:00:00,16:00:00,Herb Chili Potato,Burger,,3,Pendng,"Potato Patty, Herbs, Chili Flakes",86,2024-08-12 16:00:00
+2024-08-12 00:00:00,19:00:00,Double Trouble,Burger,,1,Cancelld,"Double Patty, Cheese, Onion",242,2024-08-12 19:00:00
+2024-08-12 00:00:00,19:00:00,Double Trouble,Burger,,1,Cancelld,"Double Patty, Cheese, Onion",242,2024-08-12 19:00:00
+2024-08-12 00:00:00,19:00:00,Double Trouble,Burger,,1,Cancelld,"Double Patty, Cheese, Onion",242,2024-08-12 19:00:00
+2024-08-12 00:00:00,19:30:00,Paneer Wrap,Wrap,,3,Completed,"Paneer, Sauce, Onion",59,2024-08-12 19:30:00
+2024-08-12 00:00:00,22:15:00,Herb Chili Potato,Burger,,3,Pendng,"Potato Patty, Herbs, Chili Flakes",86,2024-08-12 22:15:00
+2024-08-12 00:00:00,22:15:00,Herb Chili Potato,Burger,,3,Pendng,"Potato Patty, Herbs, Chili Flakes",86,2024-08-12 22:15:00
+2024-08-13 00:00:00,16:00:00,Margherita,Pizza,,1,Pendng,Classic Cheese,42,2024-08-13 16:00:00
+2024-08-13 00:00:00,16:00:00,Cheese Balls,Appetizer,,1,Cancelld,"Cheese, Coating, Spices",101,2024-08-13 16:00:00
+2024-08-13 00:00:00,17:15:00,Spicy Supreme,Garlic Bread,,2,Done,"Bread, Garlic, Chili Flakes, Cheese",247,2024-08-13 17:15:00
+2024-08-13 00:00:00,20:45:00,Margherita,Pizza,,1,Pendng,Classic Cheese,42,2024-08-13 20:45:00
+2024-08-13 00:00:00,20:45:00,Margherita,Pizza,,1,Pendng,Classic Cheese,42,2024-08-13 20:45:00
+2024-08-13 00:00:00,20:45:00,Kitkat Shake,Shake,,2,Pendng,"Milk, Kitkat, Chocolate",56,2024-08-13 20:45:00
+2024-08-13 00:00:00,22:15:00,Choemain,Noodles,,1,Completed,"Noodles, Vegetables, Sauce",227,2024-08-13 22:15:00
+2024-08-14 00:00:00,11:00:00,Veggie Overloaded,Pizza,Small,1,Cancelld,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",291,2024-08-14 11:00:00
+2024-08-14 00:00:00,12:45:00,Chocolate Shake,Shake,,3,Completed,"Milk, Chocolate Syrup",59,2024-08-14 12:45:00
+2024-08-14 00:00:00,14:30:00,Cold Coffee,Drink,,3,Cancelld,"Coffee, Milk, Sugar",84,2024-08-14 14:30:00
+2024-08-14 00:00:00,17:45:00,High Five,Pizza,Medium,2,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",222,2024-08-14 17:45:00
+2024-08-14 00:00:00,17:45:00,High Five,Pizza,Medium,2,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",222,2024-08-14 17:45:00
+2024-08-14 00:00:00,17:45:00,High Five,Pizza,Medium,2,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",222,2024-08-14 17:45:00
+2024-08-14 00:00:00,21:45:00,Veggie Overloaded,Pizza,Small,1,Cancelld,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",291,2024-08-14 21:45:00
+2024-08-14 00:00:00,21:45:00,Veggie Overloaded,Pizza,Small,1,Cancelld,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",291,2024-08-14 21:45:00
+2024-08-14 00:00:00,21:45:00,Regular Fries,Appetizer,,2,,"Potato, Salt",43,2024-08-14 21:45:00
+2024-08-15 00:00:00,11:00:00,Peri Peri Fries,Appetizer,,2,Completed,"Potato, Peri Peri Masala",194,2024-08-15 11:00:00
+2024-08-15 00:00:00,11:15:00,Onion,Pizza,,2,Completed,"Cheese, Onion",276,2024-08-15 11:15:00
+2024-08-15 00:00:00,11:15:00,Onion,Pizza,,2,Completed,"Cheese, Onion",276,2024-08-15 11:15:00
+2024-08-15 00:00:00,11:15:00,Onion,Pizza,,2,Completed,"Cheese, Onion",276,2024-08-15 11:15:00
+2024-08-15 00:00:00,14:15:00,OTC,Pizza,Small,1,,"Cheese, Onion, Tomato, Capsicum",,2024-08-15 14:15:00
+2024-08-15 00:00:00,14:15:00,OTC,Pizza,Small,1,,"Cheese, Onion, Tomato, Capsicum",,2024-08-15 14:15:00
+2024-08-15 00:00:00,14:15:00,OTC,Pizza,Small,1,,"Cheese, Onion, Tomato, Capsicum",,2024-08-15 14:15:00
+2024-08-15 00:00:00,15:45:00,Cheese Balls,Appetizer,,1,Cancelld,"Cheese, Coating, Spices",117,2024-08-15 15:45:00
+2024-08-15 00:00:00,17:00:00,Mojito Blast,Drink,,3,Completed,"Mint, Lemon, Ice, Soda",87,2024-08-15 17:00:00
+2024-08-16 00:00:00,11:00:00,Margherita,Pizza,,2,Cancelld,Classic Cheese,278,2024-08-16 11:00:00
+2024-08-16 00:00:00,15:00:00,Aloo Tikki Wrap,Wrap,,3,,"Tikki, Onion, Sauce",234,2024-08-16 15:00:00
+2024-08-16 00:00:00,17:00:00,Margherita,Pizza,,2,Cancelld,Classic Cheese,278,2024-08-16 17:00:00
+2024-08-16 00:00:00,17:00:00,Oreo Shake,Shake,,1,Completed,"Milk, Oreo, Chocolate",206,2024-08-16 17:00:00
+2024-08-16 00:00:00,19:00:00,Margherita,Pizza,,2,Cancelld,Classic Cheese,278,2024-08-16 19:00:00
+2024-08-17 00:00:00,14:30:00,Mint Mojito,Drink,,1,Completed,"Mint, Soda, Lime",293,2024-08-17 14:30:00
+2024-08-17 00:00:00,16:15:00,Mojito Blast,Drink,,3,,"Mint, Lemon, Ice, Soda",73,2024-08-17 16:15:00
+2024-08-18 00:00:00,11:00:00,Veg Popular,Burger,,1,Cancelld,"Veg Patty, Lettuce, Tomato",222,2024-08-18 11:00:00
+2024-08-18 00:00:00,11:00:00,Aloo Tikki Wrap,Wrap,,1,Done,"Tikki, Onion, Sauce",191,2024-08-18 11:00:00
+2024-08-18 00:00:00,11:00:00,Veg Popular,Burger,,1,Cancelld,"Veg Patty, Lettuce, Tomato",222,2024-08-18 11:00:00
+2024-08-18 00:00:00,11:00:00,Corn,Pizza,Small,,Pendng,,268,2024-08-18 11:00:00
+2024-08-18 00:00:00,14:00:00,Kitkat Shake,Shake,,1,Pendng,"Milk, Kitkat, Chocolate",298,2024-08-18 14:00:00
+2024-08-18 00:00:00,17:00:00,Cheese Wrap,Garlic Bread,,1,,"Bread, Garlic, Cheese",147,2024-08-18 17:00:00
+2024-08-18 00:00:00,20:00:00,Veg Popular,Burger,,1,Cancelld,"Veg Patty, Lettuce, Tomato",222,2024-08-18 20:00:00
+2024-08-18 00:00:00,22:00:00,Corn,Pizza,Small,,Pendng,,268,2024-08-18 22:00:00
+2024-08-18 00:00:00,22:00:00,Corn,Pizza,Small,,Pendng,,268,2024-08-18 22:00:00
+2024-08-19 00:00:00,11:00:00,Vegetable Maggie,Maggie,,2,,"Maggie, Vegetables, Spices",59,2024-08-19 11:00:00
+2024-08-19 00:00:00,16:00:00,Spicy Paneer,Burger,,3,Done,"Paneer Patty, Spices, Onion",184,2024-08-19 16:00:00
+2024-08-19 00:00:00,19:00:00,Spicy Paneer,Burger,,3,Done,"Paneer Patty, Spices, Onion",184,2024-08-19 19:00:00
+2024-08-19 00:00:00,19:00:00,Spicy Paneer,Burger,,3,Done,"Paneer Patty, Spices, Onion",184,2024-08-19 19:00:00
+2024-08-19 00:00:00,20:15:00,Cold Coffee,Drink,,1,Cancelld,"Coffee, Milk, Sugar",218,2024-08-19 20:15:00
+2024-08-20 00:00:00,11:00:00,Aloo Tikki Wrap,Wrap,,1,Pendng,"Tikki, Onion, Sauce",47,2024-08-20 11:00:00
+2024-08-20 00:00:00,11:30:00,Corn,Pizza,Small,,,,150,2024-08-20 11:30:00
+2024-08-20 00:00:00,11:30:00,Corn,Pizza,Small,,,,150,2024-08-20 11:30:00
+2024-08-20 00:00:00,13:15:00,Veg Fingers,Appetizer,,1,Completed,"Veg Mix, Coating",77,2024-08-20 13:15:00
+2024-08-20 00:00:00,16:30:00,Mojito Blast,Drink,,1,Completed,"Mint, Lemon, Ice, Soda",111,2024-08-20 16:30:00
+2024-08-20 00:00:00,17:00:00,Corn,Pizza,Small,,,,150,2024-08-20 17:00:00
+2024-08-21 00:00:00,11:00:00,Regular Fries,Appetizer,,1,,"Potato, Salt",231,2024-08-21 11:00:00
+2024-08-21 00:00:00,11:15:00,Chili Garlic Pops,Appetizer,,3,Cancelld,"Potato, Garlic, Chili Flakes",212,2024-08-21 11:15:00
+2024-08-22 00:00:00,11:00:00,Sandwich,Burger,,2,Done,Extra Cheese Slice,44,2024-08-22 11:00:00
+2024-08-22 00:00:00,16:15:00,Sandwich,Burger,,2,Done,Extra Cheese Slice,44,2024-08-22 16:15:00
+2024-08-22 00:00:00,17:00:00,Sandwich,Burger,,2,Done,Extra Cheese Slice,44,2024-08-22 17:00:00
+2024-08-22 00:00:00,18:00:00,Country Feast,Pizza,,2,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",256,2024-08-22 18:00:00
+2024-08-22 00:00:00,18:00:00,Country Feast,Pizza,,2,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",256,2024-08-22 18:00:00
+2024-08-22 00:00:00,18:00:00,Country Feast,Pizza,,2,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",256,2024-08-22 18:00:00
+2024-08-23 00:00:00,14:15:00,Herb Chili Potato,Burger,,1,Done,,264,2024-08-23 14:15:00
+2024-08-23 00:00:00,14:15:00,Herb Chili Potato,Burger,,1,Done,,264,2024-08-23 14:15:00
+2024-08-23 00:00:00,14:15:00,Herb Chili Potato,Burger,,1,Done,,264,2024-08-23 14:15:00
+2024-08-23 00:00:00,14:45:00,Mint Mojito,Drink,,1,Pendng,"Mint, Soda, Lime",177,2024-08-23 14:45:00
+2024-08-23 00:00:00,15:15:00,Kitkat Shake,Shake,,,Cancelld,"Milk, Kitkat, Chocolate",171,2024-08-23 15:15:00
+2024-08-23 00:00:00,21:45:00,Mix Sauce Pasta,Pasta,,2,Cancelld,"Pasta, Red Sauce, White Sauce, Veggies",138,2024-08-23 21:45:00
+2024-08-24 00:00:00,16:15:00,Strawberry Shake,Shake,,1,Done,"Milk, Strawberry Syrup",279,2024-08-24 16:15:00
+2024-08-24 00:00:00,21:15:00,Mix Sauce Pasta,Pasta,,2,Completed,"Pasta, Red Sauce, White Sauce, Veggies",270,2024-08-24 21:15:00
+2024-08-24 00:00:00,22:00:00,Country Feast,Pizza,Small,3,,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",198,2024-08-24 22:00:00
+2024-08-24 00:00:00,22:00:00,Country Feast,Pizza,Small,3,,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",198,2024-08-24 22:00:00
+2024-08-24 00:00:00,22:00:00,Country Feast,Pizza,Small,3,,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",198,2024-08-24 22:00:00
+2024-08-25 00:00:00,11:00:00,Exotica,Pizza,,3,Cancelld,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",73,2024-08-25 11:00:00
+2024-08-25 00:00:00,11:00:00,White Sauce Pasta,Pasta,,1,Completed,"Pasta, White Sauce, Corn",54,2024-08-25 11:00:00
+2024-08-25 00:00:00,15:30:00,Exotica,Pizza,,3,Cancelld,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",73,2024-08-25 15:30:00
+2024-08-25 00:00:00,15:30:00,Exotica,Pizza,,3,Cancelld,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",73,2024-08-25 15:30:00
+2024-08-25 00:00:00,16:00:00,Green Apple,Drink,,1,Cancelld,"Green Apple Syrup, Soda",230,2024-08-25 16:00:00
+2024-08-26 00:00:00,12:45:00,Sandwich Cheese,Sandwich,,1,Pendng,"Bread, Cheese, Butter",213,2024-08-26 12:45:00
+2024-08-26 00:00:00,19:30:00,Mojito Blast,Drink,,1,Completed,"Mint, Lemon, Ice, Soda",177,2024-08-26 19:30:00
+2024-08-27 00:00:00,18:00:00,Double Trouble,Burger,,3,,"Double Patty, Cheese, Onion",42,2024-08-27 18:00:00
+2024-08-27 00:00:00,18:00:00,Double Trouble,Burger,,3,,"Double Patty, Cheese, Onion",42,2024-08-27 18:00:00
+2024-08-27 00:00:00,18:00:00,Double Trouble,Burger,,3,,"Double Patty, Cheese, Onion",42,2024-08-27 18:00:00
+2024-08-27 00:00:00,18:45:00,Regular Fries,Appetizer,,1,Cancelld,"Potato, Salt",57,2024-08-27 18:45:00
+2024-08-27 00:00:00,22:15:00,Spicy Paneer,Burger,,2,Cancelld,,,2024-08-27 22:15:00
+2024-08-27 00:00:00,22:15:00,Spicy Paneer,Burger,,2,Cancelld,,,2024-08-27 22:15:00
+2024-08-27 00:00:00,22:15:00,Spicy Paneer,Burger,,2,Cancelld,,,2024-08-27 22:15:00
+2024-08-28 00:00:00,14:00:00,Corn,Pizza,,3,Pendng,"Cheese, Corn",144,2024-08-28 14:00:00
+2024-08-28 00:00:00,14:00:00,Corn,Pizza,,3,Pendng,"Cheese, Corn",144,2024-08-28 14:00:00
+2024-08-28 00:00:00,14:00:00,Corn,Pizza,,3,Pendng,"Cheese, Corn",144,2024-08-28 14:00:00
+2024-08-28 00:00:00,16:00:00,Cheese Wrap,Garlic Bread,,3,Completed,,41,2024-08-28 16:00:00
+2024-08-28 00:00:00,16:00:00,Pan33r Sp3cial,Pizza,Small,2,Done,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",211,2024-08-28 16:00:00
+2024-08-28 00:00:00,17:00:00,Pan33r Pizza,Pizza,Small,1,Cancelld,"Cheese, Paneer, Onion, Tomato",281,2024-08-28 17:00:00
+2024-08-28 00:00:00,17:00:00,Pan33r Pizza,Pizza,Small,1,Cancelld,"Cheese, Paneer, Onion, Tomato",281,2024-08-28 17:00:00
+2024-08-28 00:00:00,17:00:00,Pan33r Pizza,Pizza,Small,1,Cancelld,"Cheese, Paneer, Onion, Tomato",281,2024-08-28 17:00:00
+2024-08-28 00:00:00,17:45:00,Regular Fries,Appetizer,,1,Pendng,"Potato, Salt",172,2024-08-28 17:45:00
+2024-08-28 00:00:00,22:45:00,Pan33r Sp3cial,Pizza,Small,2,Done,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",211,2024-08-28 22:45:00
+2024-08-28 00:00:00,22:45:00,Pan33r Sp3cial,Pizza,Small,2,Done,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",211,2024-08-28 22:45:00
+2024-08-29 00:00:00,11:00:00,Spicy Paneer,Burger,,1,Cancelld,"Paneer Patty, Spices, Onion",173,2024-08-29 11:00:00
+2024-08-29 00:00:00,11:00:00,Spicy Paneer,Burger,,1,Cancelld,"Paneer Patty, Spices, Onion",173,2024-08-29 11:00:00
+2024-08-29 00:00:00,11:00:00,Spicy Paneer,Burger,,1,Cancelld,"Paneer Patty, Spices, Onion",173,2024-08-29 11:00:00
+2024-08-29 00:00:00,18:00:00,Country Feast,Pizza,,1,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",288,2024-08-29 18:00:00
+2024-08-29 00:00:00,18:00:00,Country Feast,Pizza,,1,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",288,2024-08-29 18:00:00
+2024-08-29 00:00:00,18:00:00,Country Feast,Pizza,,1,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",288,2024-08-29 18:00:00
+2024-08-29 00:00:00,19:00:00,Sandwich Ch33s3,Sandwich,,1,Cancelld,,224,2024-08-29 19:00:00
+2024-08-30 00:00:00,11:00:00,Veg Popular,Burger,,1,Done,"Veg Patty, Lettuce, Tomato",215,2024-08-30 11:00:00
+2024-08-30 00:00:00,12:30:00,Veg Popular,Burger,,1,Done,"Veg Patty, Lettuce, Tomato",215,2024-08-30 12:30:00
+2024-08-30 00:00:00,12:30:00,Veg Popular,Burger,,1,Done,"Veg Patty, Lettuce, Tomato",215,2024-08-30 12:30:00
+2024-08-30 00:00:00,15:00:00,Paneer Wrap,Wrap,,2,Cancelld,"Paneer, Sauce, Onion",94,2024-08-30 15:00:00
+2024-08-30 00:00:00,17:45:00,Strawberry Shake,Shake,,1,Done,"Milk, Strawberry Syrup",178,2024-08-30 17:45:00
+2024-08-30 00:00:00,18:15:00,Cheese Wrap,Garlic Bread,,2,Cancelld,"Bread, Garlic, Cheese",163,2024-08-30 18:15:00
+2024-08-30 00:00:00,22:00:00,Paneer Pizza,Pizza,Medium,1,Completed,"Cheese, Paneer, Onion, Tomato",257,2024-08-30 22:00:00
+2024-08-30 00:00:00,22:00:00,Paneer Pizza,Pizza,Medium,1,Completed,"Cheese, Paneer, Onion, Tomato",257,2024-08-30 22:00:00
+2024-08-30 00:00:00,22:00:00,Paneer Pizza,Pizza,Medium,1,Completed,"Cheese, Paneer, Onion, Tomato",257,2024-08-30 22:00:00
+2024-08-31 00:00:00,11:00:00,Veggie Delight,Pizza,,1,Done,"Cheese, Onion, Capsicum, Sweet Corn",61,2024-08-31 11:00:00
+2024-08-31 00:00:00,12:45:00,Onion,Pizza,Small,1,Cancelld,"Cheese, Onion",92,2024-08-31 12:45:00
+2024-08-31 00:00:00,12:45:00,Onion,Pizza,Small,1,Cancelld,"Cheese, Onion",92,2024-08-31 12:45:00
+2024-08-31 00:00:00,12:45:00,Onion,Pizza,Small,1,Cancelld,"Cheese, Onion",92,2024-08-31 12:45:00
+2024-08-31 00:00:00,21:15:00,Veggie Delight,Pizza,,1,Done,"Cheese, Onion, Capsicum, Sweet Corn",61,2024-08-31 21:15:00
+2024-08-31 00:00:00,21:15:00,Veggie Delight,Pizza,,1,Done,"Cheese, Onion, Capsicum, Sweet Corn",61,2024-08-31 21:15:00
+2024-09-01 00:00:00,10:15:00,Spicy Paneer,Burger,,1,Pendng,"Paneer Patty, Spices, Onion",134,2024-09-01 10:15:00
+2024-09-01 00:00:00,10:15:00,Spicy Paneer,Burger,,1,Pendng,"Paneer Patty, Spices, Onion",134,2024-09-01 10:15:00
+2024-09-01 00:00:00,10:15:00,Spicy Paneer,Burger,,1,Pendng,"Paneer Patty, Spices, Onion",134,2024-09-01 10:15:00
+2024-09-01 00:00:00,11:00:00,OTC,Pizza,Medium,2,Pendng,"Cheese, Onion, Tomato, Capsicum",55,2024-09-01 11:00:00
+2024-09-01 00:00:00,12:30:00,Green Apple,Drink,,2,,,67,2024-09-01 12:30:00
+2024-09-01 00:00:00,13:45:00,OTC,Pizza,Medium,2,Pendng,"Cheese, Onion, Tomato, Capsicum",55,2024-09-01 13:45:00
+2024-09-01 00:00:00,13:45:00,OTC,Pizza,Medium,2,Pendng,"Cheese, Onion, Tomato, Capsicum",55,2024-09-01 13:45:00
+2024-09-01 00:00:00,15:45:00,Herb Chili Potato,Burger,,1,Done,"Potato Patty, Herbs, Chili Flakes",133,2024-09-01 15:45:00
+2024-09-01 00:00:00,15:45:00,Herb Chili Potato,Burger,,1,Done,"Potato Patty, Herbs, Chili Flakes",133,2024-09-01 15:45:00
+2024-09-01 00:00:00,15:45:00,Herb Chili Potato,Burger,,1,Done,"Potato Patty, Herbs, Chili Flakes",133,2024-09-01 15:45:00
+2024-09-01 00:00:00,17:15:00,Peri Peri Fries,Appetizer,,1,,"Potato, Peri Peri Masala",136,2024-09-01 17:15:00
+2024-09-02 00:00:00,11:00:00,Veggie Delight,Pizza,Small,2,Completed,"Cheese, Onion, Capsicum, Sweet Corn",180,2024-09-02 11:00:00
+2024-09-02 00:00:00,13:00:00,Chili Garlic Pops,Appetizer,,2,Completed,"Potato, Garlic, Chili Flakes",183,2024-09-02 13:00:00
+2024-09-02 00:00:00,22:45:00,Veggie Delight,Pizza,Small,2,Completed,"Cheese, Onion, Capsicum, Sweet Corn",180,2024-09-02 22:45:00
+2024-09-02 00:00:00,22:45:00,Veggie Delight,Pizza,Small,2,Completed,"Cheese, Onion, Capsicum, Sweet Corn",180,2024-09-02 22:45:00
+2024-09-03 00:00:00,14:30:00,Paneer Pizza,Pizza,Medium,3,,"Cheese, Paneer, Onion, Tomato",79,2024-09-03 14:30:00
+2024-09-03 00:00:00,14:30:00,Paneer Pizza,Pizza,Medium,3,,"Cheese, Paneer, Onion, Tomato",79,2024-09-03 14:30:00
+2024-09-03 00:00:00,17:00:00,Paneer Pizza,Pizza,Medium,3,,"Cheese, Paneer, Onion, Tomato",79,2024-09-03 17:00:00
+2024-09-03 00:00:00,22:00:00,Paneer Special,Pizza,Small,1,Completed,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",211,2024-09-03 22:00:00
+2024-09-03 00:00:00,22:00:00,Double Trouble,Burger,,,Done,"Double Patty, Cheese, Onion",259,2024-09-03 22:00:00
+2024-09-03 00:00:00,22:00:00,Double Trouble,Burger,,,Done,"Double Patty, Cheese, Onion",259,2024-09-03 22:00:00
+2024-09-03 00:00:00,22:00:00,Paneer Special,Pizza,Small,1,Completed,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",211,2024-09-03 22:00:00
+2024-09-03 00:00:00,22:00:00,Double Trouble,Burger,,,Done,"Double Patty, Cheese, Onion",259,2024-09-03 22:00:00
+2024-09-03 00:00:00,22:00:00,Paneer Special,Pizza,Small,1,Completed,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",211,2024-09-03 22:00:00
+2024-09-03 00:00:00,22:45:00,V3ggi3 Ov3rload3d,Pizza,,1,Completed,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",222,2024-09-03 22:45:00
+2024-09-03 00:00:00,22:45:00,V3ggi3 Ov3rload3d,Pizza,,1,Completed,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",222,2024-09-03 22:45:00
+2024-09-03 00:00:00,22:45:00,V3ggi3 Ov3rload3d,Pizza,,1,Completed,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",222,2024-09-03 22:45:00
+2024-09-04 00:00:00,11:00:00,Sandwich Cheese,Sandwich,,,Done,"Bread, Cheese, Butter",,2024-09-04 11:00:00
+2024-09-04 00:00:00,11:00:00,Exotica,Pizza,Medium,1,Cancelld,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",109,2024-09-04 11:00:00
+2024-09-04 00:00:00,14:15:00,Kitkat Shake,Shake,,,,"Milk, Kitkat, Chocolate",197,2024-09-04 14:15:00
+2024-09-04 00:00:00,16:00:00,Exotica,Pizza,Medium,1,Cancelld,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",109,2024-09-04 16:00:00
+2024-09-04 00:00:00,16:00:00,Exotica,Pizza,Medium,1,Cancelld,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",109,2024-09-04 16:00:00
+2024-09-04 00:00:00,17:00:00,Momos,Momos,,1,Cancelld,"Dumplings, Veg Stuffing",261,2024-09-04 17:00:00
+2024-09-04 00:00:00,21:45:00,Cheese Wrap,Garlic Bread,,2,Completed,"Bread, Garlic, Cheese",266,2024-09-04 21:45:00
+2024-09-05 00:00:00,11:00:00,High Five,Pizza,Medium,1,Done,,45,2024-09-05 11:00:00
+2024-09-05 00:00:00,11:45:00,Veggie Delight,Pizza,Medium,1,Completed,"Cheese, Onion, Capsicum, Sweet Corn",51,2024-09-05 11:45:00
+2024-09-05 00:00:00,11:45:00,Veggie Delight,Pizza,Medium,1,Completed,"Cheese, Onion, Capsicum, Sweet Corn",51,2024-09-05 11:45:00
+2024-09-05 00:00:00,11:45:00,Veggie Delight,Pizza,Medium,1,Completed,"Cheese, Onion, Capsicum, Sweet Corn",51,2024-09-05 11:45:00
+2024-09-05 00:00:00,12:15:00,Strawberry Shake,Shake,,1,Completed,,104,2024-09-05 12:15:00
+2024-09-05 00:00:00,15:30:00,Paneer Pizza,Pizza,Small,3,Cancelld,"Cheese, Paneer, Onion, Tomato",116,2024-09-05 15:30:00
+2024-09-05 00:00:00,15:30:00,Paneer Pizza,Pizza,Small,3,Cancelld,"Cheese, Paneer, Onion, Tomato",116,2024-09-05 15:30:00
+2024-09-05 00:00:00,15:30:00,Paneer Pizza,Pizza,Small,3,Cancelld,"Cheese, Paneer, Onion, Tomato",116,2024-09-05 15:30:00
+2024-09-05 00:00:00,16:00:00,High Five,Pizza,Medium,1,Done,,45,2024-09-05 16:00:00
+2024-09-05 00:00:00,19:30:00,High Five,Pizza,Medium,1,Done,,45,2024-09-05 19:30:00
+2024-09-05 00:00:00,21:00:00,Onion,Pizza,,3,Done,"Cheese, Onion",291,2024-09-05 21:00:00
+2024-09-05 00:00:00,21:00:00,Onion,Pizza,,3,Done,"Cheese, Onion",291,2024-09-05 21:00:00
+2024-09-05 00:00:00,21:00:00,Onion,Pizza,,3,Done,"Cheese, Onion",291,2024-09-05 21:00:00
+2024-09-06 00:00:00,16:15:00,Strawberry Shake,Shake,,1,Cancelld,,98,2024-09-06 16:15:00
+2024-09-06 00:00:00,17:15:00,Spicy Paneer,Burger,,,,"Paneer Patty, Spices, Onion",203,2024-09-06 17:15:00
+2024-09-06 00:00:00,17:15:00,Spicy Paneer,Burger,,,,"Paneer Patty, Spices, Onion",203,2024-09-06 17:15:00
+2024-09-06 00:00:00,17:15:00,Spicy Paneer,Burger,,,,"Paneer Patty, Spices, Onion",203,2024-09-06 17:15:00
+2024-09-06 00:00:00,17:45:00,Spicy Supreme,Garlic Bread,,2,,,146,2024-09-06 17:45:00
+2024-09-06 00:00:00,19:45:00,Paneer Wrap,Wrap,,1,Cancelld,"Paneer, Sauce, Onion",101,2024-09-06 19:45:00
+2024-09-07 00:00:00,11:00:00,Paneer Pizza,Pizza,,1,Pendng,"Cheese, Paneer, Onion, Tomato",212,2024-09-07 11:00:00
+2024-09-07 00:00:00,11:00:00,Paneer Pizza,Pizza,,1,Pendng,"Cheese, Paneer, Onion, Tomato",212,2024-09-07 11:00:00
+2024-09-07 00:00:00,11:00:00,V3ggi3 Ov3rload3d,Pizza,Small,3,Done,,230,2024-09-07 11:00:00
+2024-09-07 00:00:00,16:00:00,V3ggi3 Ov3rload3d,Pizza,Small,3,Done,,230,2024-09-07 16:00:00
+2024-09-07 00:00:00,16:00:00,Paneer Pizza,Pizza,,1,Pendng,"Cheese, Paneer, Onion, Tomato",212,2024-09-07 16:00:00
+2024-09-07 00:00:00,16:00:00,V3ggi3 Ov3rload3d,Pizza,Small,3,Done,,230,2024-09-07 16:00:00
+2024-09-07 00:00:00,20:30:00,Oreo Shake,Shake,,1,,"Milk, Oreo, Chocolate",284,2024-09-07 20:30:00
+2024-09-07 00:00:00,22:15:00,Chocolate Shake,Shake,,3,,"Milk, Chocolate Syrup",71,2024-09-07 22:15:00
+2024-09-08 00:00:00,11:00:00,High Fiv3,Pizza,,3,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",281,2024-09-08 11:00:00
+2024-09-08 00:00:00,12:15:00,Margherita,Pizza,Medium,1,Pendng,Classic Cheese,276,2024-09-08 12:15:00
+2024-09-08 00:00:00,12:15:00,Margherita,Pizza,Medium,1,Pendng,Classic Cheese,276,2024-09-08 12:15:00
+2024-09-08 00:00:00,12:15:00,Margherita,Pizza,Medium,1,Pendng,Classic Cheese,276,2024-09-08 12:15:00
+2024-09-08 00:00:00,16:00:00,Mint Mojito,Drink,,1,Completed,"Mint, Soda, Lime",236,2024-09-08 16:00:00
+2024-09-08 00:00:00,17:45:00,Strawberry Shake,Shake,,,Pendng,"Milk, Strawberry Syrup",207,2024-09-08 17:45:00
+2024-09-08 00:00:00,20:45:00,High Fiv3,Pizza,,3,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",281,2024-09-08 20:45:00
+2024-09-08 00:00:00,20:45:00,High Fiv3,Pizza,,3,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",281,2024-09-08 20:45:00
+2024-09-09 00:00:00,22:30:00,Kitkat Shake,Shake,,,Pendng,"Milk, Kitkat, Chocolate",245,2024-09-09 22:30:00
+2024-09-09 00:00:00,22:45:00,Regular Fries,Appetizer,,1,Cancelld,"Potato, Salt",64,2024-09-09 22:45:00
+2024-09-10 00:00:00,11:00:00,Paneer Pizza,Pizza,Medium,,Cancelld,,,2024-09-10 11:00:00
+2024-09-10 00:00:00,11:00:00,Spicy Veggie,Pizza,Small,1,Cancelld,"Cheese, Onion, Green Chili",153,2024-09-10 11:00:00
+2024-09-10 00:00:00,12:00:00,Mint Mojito,Drink,,2,Cancelld,"Mint, Soda, Lime",,2024-09-10 12:00:00
+2024-09-10 00:00:00,15:15:00,Red Sauce Pasta,Pasta,,1,Completed,"Pasta, Red Sauce, Herbs",117,2024-09-10 15:15:00
+2024-09-10 00:00:00,16:30:00,Cheese Balls,Appetizer,,3,Completed,"Cheese, Coating, Spices",102,2024-09-10 16:30:00
+2024-09-10 00:00:00,22:00:00,Paneer Pizza,Pizza,Medium,,Cancelld,,,2024-09-10 22:00:00
+2024-09-10 00:00:00,22:00:00,Paneer Pizza,Pizza,Medium,,Cancelld,,,2024-09-10 22:00:00
+2024-09-10 00:00:00,22:45:00,Spicy Veggie,Pizza,Small,1,Cancelld,"Cheese, Onion, Green Chili",153,2024-09-10 22:45:00
+2024-09-10 00:00:00,22:45:00,Spicy Veggie,Pizza,Small,1,Cancelld,"Cheese, Onion, Green Chili",153,2024-09-10 22:45:00
+2024-09-11 00:00:00,11:00:00,Paneer Special,Pizza,Medium,3,,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",157,2024-09-11 11:00:00
+2024-09-11 00:00:00,11:15:00,V3g Popular,Burger,,1,Done,"Veg Patty, Lettuce, Tomato",167,2024-09-11 11:15:00
+2024-09-11 00:00:00,11:15:00,V3g Popular,Burger,,1,Done,"Veg Patty, Lettuce, Tomato",167,2024-09-11 11:15:00
+2024-09-11 00:00:00,11:15:00,V3g Popular,Burger,,1,Done,"Veg Patty, Lettuce, Tomato",167,2024-09-11 11:15:00
+2024-09-11 00:00:00,13:15:00,Ch33sy Fir3 Hous3,Burger,,2,Cancelld,"Spicy Patty, Cheese, Lettuce",62,2024-09-11 13:15:00
+2024-09-11 00:00:00,13:15:00,Ch33sy Fir3 Hous3,Burger,,2,Cancelld,"Spicy Patty, Cheese, Lettuce",62,2024-09-11 13:15:00
+2024-09-11 00:00:00,13:15:00,Ch33sy Fir3 Hous3,Burger,,2,Cancelld,"Spicy Patty, Cheese, Lettuce",62,2024-09-11 13:15:00
+2024-09-11 00:00:00,17:15:00,Paneer Special,Pizza,Medium,3,,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",157,2024-09-11 17:15:00
+2024-09-11 00:00:00,17:15:00,Paneer Special,Pizza,Medium,3,,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",157,2024-09-11 17:15:00
+2024-09-11 00:00:00,20:30:00,Onion,Pizza,Medium,1,Done,"Cheese, Onion",146,2024-09-11 20:30:00
+2024-09-11 00:00:00,20:30:00,Onion,Pizza,Medium,1,Done,"Cheese, Onion",146,2024-09-11 20:30:00
+2024-09-11 00:00:00,20:30:00,Onion,Pizza,Medium,1,Done,"Cheese, Onion",146,2024-09-11 20:30:00
+2024-09-12 00:00:00,16:15:00,Choemain,Noodles,,1,,"Noodles, Vegetables, Sauce",96,2024-09-12 16:15:00
+2024-09-12 00:00:00,19:15:00,Cold Coffee,Drink,,2,Cancelld,"Coffee, Milk, Sugar",125,2024-09-12 19:15:00
+2024-09-12 00:00:00,20:15:00,White Sauce Pasta,Pasta,,2,,"Pasta, White Sauce, Corn",154,2024-09-12 20:15:00
+2024-09-13 00:00:00,10:00:00,Vegetable Maggie,Maggie,,2,,"Maggie, Vegetables, Spices",297,2024-09-13 10:00:00
+2024-09-13 00:00:00,11:00:00,OTC,Pizza,,2,Pendng,"Cheese, Onion, Tomato, Capsicum",226,2024-09-13 11:00:00
+2024-09-13 00:00:00,11:00:00,Paneer Special,Pizza,Small,2,,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",122,2024-09-13 11:00:00
+2024-09-13 00:00:00,17:30:00,OTC,Pizza,,2,Pendng,"Cheese, Onion, Tomato, Capsicum",226,2024-09-13 17:30:00
+2024-09-13 00:00:00,17:30:00,OTC,Pizza,,2,Pendng,"Cheese, Onion, Tomato, Capsicum",226,2024-09-13 17:30:00
+2024-09-13 00:00:00,21:30:00,Paneer Special,Pizza,Small,2,,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",122,2024-09-13 21:30:00
+2024-09-13 00:00:00,21:30:00,Paneer Special,Pizza,Small,2,,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",122,2024-09-13 21:30:00
+2024-09-14 00:00:00,11:00:00,Veggie Delight,Pizza,Medium,2,Completed,"Cheese, Onion, Capsicum, Sweet Corn",215,2024-09-14 11:00:00
+2024-09-14 00:00:00,15:45:00,Mint Mojito,Drink,,1,Done,"Mint, Soda, Lime",296,2024-09-14 15:45:00
+2024-09-14 00:00:00,16:00:00,Country Feast,Pizza,,,Completed,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",,2024-09-14 16:00:00
+2024-09-14 00:00:00,19:45:00,Veggie Delight,Pizza,Medium,2,Completed,"Cheese, Onion, Capsicum, Sweet Corn",215,2024-09-14 19:45:00
+2024-09-14 00:00:00,19:45:00,Veggie Delight,Pizza,Medium,2,Completed,"Cheese, Onion, Capsicum, Sweet Corn",215,2024-09-14 19:45:00
+2024-09-14 00:00:00,22:15:00,Country Feast,Pizza,,,Completed,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",,2024-09-14 22:15:00
+2024-09-14 00:00:00,22:15:00,Country Feast,Pizza,,,Completed,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",,2024-09-14 22:15:00
+2024-09-14 00:00:00,22:30:00,Oreo Shake,Shake,,2,Completed,"Milk, Oreo, Chocolate",258,2024-09-14 22:30:00
+2024-09-15 00:00:00,11:00:00,Veggie Delight,Pizza,Small,2,Done,"Cheese, Onion, Capsicum, Sweet Corn",158,2024-09-15 11:00:00
+2024-09-15 00:00:00,22:00:00,Red Sauce Pasta,Pasta,,2,Completed,"Pasta, Red Sauce, Herbs",,2024-09-15 22:00:00
+2024-09-15 00:00:00,22:30:00,Chili Garlic Pops,Appetizer,,2,,"Potato, Garlic, Chili Flakes",95,2024-09-15 22:30:00
+2024-09-15 00:00:00,22:45:00,Veggie Delight,Pizza,Small,2,Done,"Cheese, Onion, Capsicum, Sweet Corn",158,2024-09-15 22:45:00
+2024-09-15 00:00:00,22:45:00,Veggie Delight,Pizza,Small,2,Done,"Cheese, Onion, Capsicum, Sweet Corn",158,2024-09-15 22:45:00
+2024-09-16 00:00:00,10:45:00,Spicy Veggie,Pizza,Small,1,,"Cheese, Onion, Green Chili",166,2024-09-16 10:45:00
+2024-09-16 00:00:00,16:00:00,Spicy Veggie,Pizza,Small,1,,"Cheese, Onion, Green Chili",166,2024-09-16 16:00:00
+2024-09-16 00:00:00,16:00:00,Spicy Veggie,Pizza,Small,1,,"Cheese, Onion, Green Chili",166,2024-09-16 16:00:00
+2024-09-16 00:00:00,16:30:00,Cheese Wrap,Garlic Bread,,1,Done,"Bread, Garlic, Cheese",293,2024-09-16 16:30:00
+2024-09-16 00:00:00,17:00:00,Sandwich Cheese,Sandwich,,2,Done,"Bread, Cheese, Butter",47,2024-09-16 17:00:00
+2024-09-16 00:00:00,17:30:00,Mint Mojito,Drink,,1,Pendng,"Mint, Soda, Lime",246,2024-09-16 17:30:00
+2024-09-16 00:00:00,22:45:00,High Five,Pizza,Medium,2,,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",215,2024-09-16 22:45:00
+2024-09-16 00:00:00,22:45:00,High Five,Pizza,Medium,2,,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",215,2024-09-16 22:45:00
+2024-09-16 00:00:00,22:45:00,High Five,Pizza,Medium,2,,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",215,2024-09-16 22:45:00
+2024-09-17 00:00:00,16:00:00,Spicy Veggie,Pizza,Small,2,Cancelld,"Cheese, Onion, Green Chili",239,2024-09-17 16:00:00
+2024-09-17 00:00:00,17:15:00,Strawb3rry Shak3,Shake,,2,,"Milk, Strawberry Syrup",293,2024-09-17 17:15:00
+2024-09-17 00:00:00,18:00:00,Aloo Tikki Wrap,Wrap,,1,Cancelld,,271,2024-09-17 18:00:00
+2024-09-17 00:00:00,21:00:00,Spicy Veggie,Pizza,Small,2,Cancelld,"Cheese, Onion, Green Chili",239,2024-09-17 21:00:00
+2024-09-17 00:00:00,21:00:00,Spicy Veggie,Pizza,Small,2,Cancelld,"Cheese, Onion, Green Chili",239,2024-09-17 21:00:00
+2024-09-18 00:00:00,11:00:00,Mix Sauc3 Pasta,Pasta,,1,Pendng,"Pasta, Red Sauce, White Sauce, Veggies",240,2024-09-18 11:00:00
+2024-09-18 00:00:00,13:45:00,Sandwich,Burger,,2,Pendng,Extra Cheese Slice,,2024-09-18 13:45:00
+2024-09-18 00:00:00,13:45:00,Sandwich,Burger,,2,Pendng,Extra Cheese Slice,,2024-09-18 13:45:00
+2024-09-18 00:00:00,13:45:00,Sandwich,Burger,,2,Pendng,Extra Cheese Slice,,2024-09-18 13:45:00
+2024-09-18 00:00:00,17:00:00,Margherita,Pizza,Medium,2,Completed,Classic Cheese,157,2024-09-18 17:00:00
+2024-09-18 00:00:00,19:30:00,Herb Chili Potato,Burger,,4,Cancelld,"Potato Patty, Herbs, Chili Flakes",213,2024-09-18 19:30:00
+2024-09-18 00:00:00,19:30:00,Herb Chili Potato,Burger,,4,Cancelld,"Potato Patty, Herbs, Chili Flakes",213,2024-09-18 19:30:00
+2024-09-18 00:00:00,19:30:00,Herb Chili Potato,Burger,,4,Cancelld,"Potato Patty, Herbs, Chili Flakes",213,2024-09-18 19:30:00
+2024-09-18 00:00:00,19:45:00,Margherita,Pizza,Medium,2,Completed,Classic Cheese,157,2024-09-18 19:45:00
+2024-09-18 00:00:00,19:45:00,Margherita,Pizza,Medium,2,Completed,Classic Cheese,157,2024-09-18 19:45:00
+2024-09-19 00:00:00,16:45:00,Margherita,Pizza,,3,Done,Classic Cheese,164,2024-09-19 16:45:00
+2024-09-19 00:00:00,16:45:00,Margherita,Pizza,,3,Done,Classic Cheese,164,2024-09-19 16:45:00
+2024-09-19 00:00:00,16:45:00,Margherita,Pizza,,3,Done,Classic Cheese,164,2024-09-19 16:45:00
+2024-09-19 00:00:00,19:45:00,Spicy Supreme,Garlic Bread,,1,Pendng,"Bread, Garlic, Chili Flakes, Cheese",283,2024-09-19 19:45:00
+2024-09-19 00:00:00,22:30:00,Mint Mojito,Drink,,2,Pendng,"Mint, Soda, Lime",40,2024-09-19 22:30:00
+2024-09-19 00:00:00,22:45:00,Choemain,Noodles,,1,Cancelld,"Noodles, Vegetables, Sauce",180,2024-09-19 22:45:00
+2024-09-19 00:00:00,22:45:00,Kitkat Shake,Shake,,2,,"Milk, Kitkat, Chocolate",257,2024-09-19 22:45:00
+2024-09-20 00:00:00,10:00:00,Choemain,Noodles,,2,Pendng,"Noodles, Vegetables, Sauce",123,2024-09-20 10:00:00
+2024-09-20 00:00:00,12:45:00,Onion,Pizza,Small,2,,"Cheese, Onion",193,2024-09-20 12:45:00
+2024-09-20 00:00:00,12:45:00,Onion,Pizza,Small,2,,"Cheese, Onion",193,2024-09-20 12:45:00
+2024-09-20 00:00:00,16:00:00,Onion,Pizza,Small,2,,"Cheese, Onion",193,2024-09-20 16:00:00
+2024-09-21 00:00:00,10:45:00,Strawberry Shake,Shake,,1,,"Milk, Strawberry Syrup",47,2024-09-21 10:45:00
+2024-09-21 00:00:00,11:15:00,Kitkat Shak3,Shake,,2,,"Milk, Kitkat, Chocolate",228,2024-09-21 11:15:00
+2024-09-21 00:00:00,13:00:00,Cheese Balls,Appetizer,,3,Done,"Cheese, Coating, Spices",73,2024-09-21 13:00:00
+2024-09-21 00:00:00,14:45:00,Herb Chili Potato,Burger,,1,Cancelld,"Potato Patty, Herbs, Chili Flakes",242,2024-09-21 14:45:00
+2024-09-21 00:00:00,14:45:00,Herb Chili Potato,Burger,,1,Cancelld,"Potato Patty, Herbs, Chili Flakes",242,2024-09-21 14:45:00
+2024-09-21 00:00:00,14:45:00,Herb Chili Potato,Burger,,1,Cancelld,"Potato Patty, Herbs, Chili Flakes",242,2024-09-21 14:45:00
+2024-09-21 00:00:00,19:45:00,Sandwich,Burger,,2,Done,Extra Cheese Slice,,2024-09-21 19:45:00
+2024-09-21 00:00:00,19:45:00,Sandwich,Burger,,2,Done,Extra Cheese Slice,,2024-09-21 19:45:00
+2024-09-21 00:00:00,19:45:00,Sandwich,Burger,,2,Done,Extra Cheese Slice,,2024-09-21 19:45:00
+2024-09-22 00:00:00,18:00:00,Veggie Overloaded,Pizza,,1,Done,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",169,2024-09-22 18:00:00
+2024-09-22 00:00:00,18:00:00,Veggie Overloaded,Pizza,,1,Done,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",169,2024-09-22 18:00:00
+2024-09-22 00:00:00,18:00:00,Veggie Overloaded,Pizza,,1,Done,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",169,2024-09-22 18:00:00
+2024-09-22 00:00:00,22:15:00,Kitkat Shake,Shake,,1,Completed,"Milk, Kitkat, Chocolate",,2024-09-22 22:15:00
+2024-09-23 00:00:00,11:45:00,Veggie Delight,Pizza,Medium,3,,"Cheese, Onion, Capsicum, Sweet Corn",218,2024-09-23 11:45:00
+2024-09-23 00:00:00,11:45:00,Veggie Delight,Pizza,Medium,3,,"Cheese, Onion, Capsicum, Sweet Corn",218,2024-09-23 11:45:00
+2024-09-23 00:00:00,11:45:00,Veggie Delight,Pizza,Medium,3,,"Cheese, Onion, Capsicum, Sweet Corn",218,2024-09-23 11:45:00
+2024-09-23 00:00:00,15:30:00,Choemain,Noodles,,2,Done,"Noodles, Vegetables, Sauce",76,2024-09-23 15:30:00
+2024-09-23 00:00:00,16:00:00,Sandwich,Burger,,2,Done,Extra Cheese Slice,241,2024-09-23 16:00:00
+2024-09-23 00:00:00,17:00:00,Oreo Shake,Shake,,1,,"Milk, Oreo, Chocolate",,2024-09-23 17:00:00
+2024-09-23 00:00:00,17:30:00,Sandwich,Burger,,2,Done,Extra Cheese Slice,241,2024-09-23 17:30:00
+2024-09-23 00:00:00,17:30:00,Sandwich,Burger,,2,Done,Extra Cheese Slice,241,2024-09-23 17:30:00
+2024-09-23 00:00:00,19:45:00,Red Sauce Pasta,Pasta,,2,,"Pasta, Red Sauce, Herbs",92,2024-09-23 19:45:00
+2024-09-24 00:00:00,11:00:00,Sandwich Cheese,Sandwich,,2,Completed,"Bread, Cheese, Butter",56,2024-09-24 11:00:00
+2024-09-24 00:00:00,11:00:00,Ch33s3 Garlic Br3ad,Garlic Bread,,3,,"Bread, Garlic, Cheese",145,2024-09-24 11:00:00
+2024-09-24 00:00:00,14:30:00,Regular Fries,Appetizer,,2,Cancelld,"Potato, Salt",122,2024-09-24 14:30:00
+2024-09-24 00:00:00,15:45:00,Veggie Delight,Pizza,,2,Cancelld,"Cheese, Onion, Capsicum, Sweet Corn",,2024-09-24 15:45:00
+2024-09-24 00:00:00,15:45:00,Veggie Delight,Pizza,,2,Cancelld,"Cheese, Onion, Capsicum, Sweet Corn",,2024-09-24 15:45:00
+2024-09-24 00:00:00,17:00:00,Veggie Delight,Pizza,,2,Cancelld,"Cheese, Onion, Capsicum, Sweet Corn",,2024-09-24 17:00:00
+2024-09-24 00:00:00,19:15:00,Oreo Shake,Shake,,2,Completed,,,2024-09-24 19:15:00
+2024-09-25 00:00:00,11:30:00,Sandwich Cheese,Sandwich,,2,Pendng,"Bread, Cheese, Butter",143,2024-09-25 11:30:00
+2024-09-25 00:00:00,12:00:00,Peri Peri Fries,Appetizer,,1,Completed,"Potato, Peri Peri Masala",57,2024-09-25 12:00:00
+2024-09-25 00:00:00,13:45:00,Cold Coffee,Drink,,3,Cancelld,"Coffee, Milk, Sugar",274,2024-09-25 13:45:00
+2024-09-25 00:00:00,22:30:00,Onion,Pizza,Medium,3,Pendng,,71,2024-09-25 22:30:00
+2024-09-25 00:00:00,22:30:00,Onion,Pizza,Medium,3,Pendng,,71,2024-09-25 22:30:00
+2024-09-25 00:00:00,22:30:00,Onion,Pizza,Medium,3,Pendng,,71,2024-09-25 22:30:00
+2024-09-25 00:00:00,22:30:00,Strawberry Shake,Shake,,3,Cancelld,"Milk, Strawberry Syrup",52,2024-09-25 22:30:00
+2024-09-26 00:00:00,11:00:00,White Sauce Pasta,Pasta,,1,Completed,"Pasta, White Sauce, Corn",276,2024-09-26 11:00:00
+2024-09-26 00:00:00,11:00:00,Mint Mojito,Drink,,,,"Mint, Soda, Lime",242,2024-09-26 11:00:00
+2024-09-26 00:00:00,11:45:00,Sandwich,Burger,,2,Cancelld,Extra Cheese Slice,191,2024-09-26 11:45:00
+2024-09-26 00:00:00,11:45:00,Sandwich,Burger,,2,Cancelld,Extra Cheese Slice,191,2024-09-26 11:45:00
+2024-09-26 00:00:00,11:45:00,Sandwich,Burger,,2,Cancelld,Extra Cheese Slice,191,2024-09-26 11:45:00
+2024-09-26 00:00:00,14:15:00,Mix Sauce Pasta,Pasta,,1,,"Pasta, Red Sauce, White Sauce, Veggies",72,2024-09-26 14:15:00
+2024-09-26 00:00:00,21:00:00,High Five,Pizza,,2,Done,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",241,2024-09-26 21:00:00
+2024-09-26 00:00:00,21:00:00,High Five,Pizza,,2,Done,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",241,2024-09-26 21:00:00
+2024-09-26 00:00:00,21:00:00,High Five,Pizza,,2,Done,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",241,2024-09-26 21:00:00
+2024-09-27 00:00:00,11:00:00,Country Feast,Pizza,Medium,1,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",97,2024-09-27 11:00:00
+2024-09-27 00:00:00,11:00:00,Kitkat Shake,Shake,,1,Completed,"Milk, Kitkat, Chocolate",241,2024-09-27 11:00:00
+2024-09-27 00:00:00,12:00:00,Cheesy Fire House,Burger,,3,Completed,"Spicy Patty, Cheese, Lettuce",223,2024-09-27 12:00:00
+2024-09-27 00:00:00,12:00:00,Cheesy Fire House,Burger,,3,Completed,"Spicy Patty, Cheese, Lettuce",223,2024-09-27 12:00:00
+2024-09-27 00:00:00,12:00:00,Cheesy Fire House,Burger,,3,Completed,"Spicy Patty, Cheese, Lettuce",223,2024-09-27 12:00:00
+2024-09-27 00:00:00,16:00:00,White Sauce Pasta,Pasta,,3,Cancelld,"Pasta, White Sauce, Corn",237,2024-09-27 16:00:00
+2024-09-27 00:00:00,17:45:00,Country Feast,Pizza,Medium,1,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",97,2024-09-27 17:45:00
+2024-09-27 00:00:00,17:45:00,Country Feast,Pizza,Medium,1,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",97,2024-09-27 17:45:00
+2024-09-27 00:00:00,22:45:00,Onion,Pizza,Small,1,Completed,"Cheese, Onion",147,2024-09-27 22:45:00
+2024-09-27 00:00:00,22:45:00,Onion,Pizza,Small,1,Completed,"Cheese, Onion",147,2024-09-27 22:45:00
+2024-09-27 00:00:00,22:45:00,Onion,Pizza,Small,1,Completed,"Cheese, Onion",147,2024-09-27 22:45:00
+2024-09-28 00:00:00,11:45:00,Mix Sauce Pasta,Pasta,,2,Completed,"Pasta, Red Sauce, White Sauce, Veggies",62,2024-09-28 11:45:00
+2024-09-28 00:00:00,16:00:00,OTC,Pizza,Medium,1,,"Cheese, Onion, Tomato, Capsicum",184,2024-09-28 16:00:00
+2024-09-28 00:00:00,17:00:00,Choemain,Noodles,,2,Done,"Noodles, Vegetables, Sauce",263,2024-09-28 17:00:00
+2024-09-28 00:00:00,17:00:00,OTC,Pizza,Medium,1,,"Cheese, Onion, Tomato, Capsicum",184,2024-09-28 17:00:00
+2024-09-28 00:00:00,18:45:00,Red Sauce Pasta,Pasta,,2,Pendng,"Pasta, Red Sauce, Herbs",273,2024-09-28 18:45:00
+2024-09-28 00:00:00,22:45:00,OTC,Pizza,Medium,1,,"Cheese, Onion, Tomato, Capsicum",184,2024-09-28 22:45:00
+2024-09-29 00:00:00,16:00:00,Strawberry Shake,Shake,,2,Done,"Milk, Strawberry Syrup",224,2024-09-29 16:00:00
+2024-09-29 00:00:00,16:30:00,Chocolate Shake,Shake,,1,Cancelld,"Milk, Chocolate Syrup",66,2024-09-29 16:30:00
+2024-09-30 00:00:00,10:15:00,Herb Chili Potato,Burger,,1,Completed,"Potato Patty, Herbs, Chili Flakes",50,2024-09-30 10:15:00
+2024-09-30 00:00:00,10:15:00,Herb Chili Potato,Burger,,1,Completed,"Potato Patty, Herbs, Chili Flakes",50,2024-09-30 10:15:00
+2024-09-30 00:00:00,11:00:00,Herb Chili Potato,Burger,,1,Completed,"Potato Patty, Herbs, Chili Flakes",50,2024-09-30 11:00:00
+2024-09-30 00:00:00,15:15:00,Veggie Overloaded,Pizza,Small,2,Completed,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",41,2024-09-30 15:15:00
+2024-09-30 00:00:00,15:15:00,Veggie Overloaded,Pizza,Small,2,Completed,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",41,2024-09-30 15:15:00
+2024-09-30 00:00:00,15:15:00,Veggie Overloaded,Pizza,Small,2,Completed,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",41,2024-09-30 15:15:00
+2024-09-30 00:00:00,21:00:00,Mojito Blast,Drink,,1,Done,,140,2024-09-30 21:00:00
+2024-09-30 00:00:00,22:30:00,Margh3rita,Pizza,,1,Done,Classic Cheese,163,2024-09-30 22:30:00
+2024-09-30 00:00:00,22:30:00,Margh3rita,Pizza,,1,Done,Classic Cheese,163,2024-09-30 22:30:00
+2024-09-30 00:00:00,22:30:00,Margh3rita,Pizza,,1,Done,Classic Cheese,163,2024-09-30 22:30:00
+2024-10-01 00:00:00,11:00:00,Country Feast,Pizza,Small,4,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",206,2024-10-01 11:00:00
+2024-10-01 00:00:00,11:30:00,Country Feast,Pizza,Small,4,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",206,2024-10-01 11:30:00
+2024-10-01 00:00:00,11:30:00,Country Feast,Pizza,Small,4,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",206,2024-10-01 11:30:00
+2024-10-01 00:00:00,22:45:00,Cold Coffee,Drink,,1,Completed,"Coffee, Milk, Sugar",122,2024-10-01 22:45:00
+2024-10-02 00:00:00,11:15:00,Choemain,Noodles,,1,Cancelld,"Noodles, Vegetables, Sauce",165,2024-10-02 11:15:00
+2024-10-02 00:00:00,19:15:00,Veg Popular,Burger,,2,Cancelld,"Veg Patty, Lettuce, Tomato",270,2024-10-02 19:15:00
+2024-10-02 00:00:00,19:15:00,Veg Popular,Burger,,2,Cancelld,"Veg Patty, Lettuce, Tomato",270,2024-10-02 19:15:00
+2024-10-02 00:00:00,19:15:00,Veg Popular,Burger,,2,Cancelld,"Veg Patty, Lettuce, Tomato",270,2024-10-02 19:15:00
+2024-10-02 00:00:00,21:30:00,Cheese Wrap,Garlic Bread,,2,Completed,,250,2024-10-02 21:30:00
+2024-10-03 00:00:00,11:00:00,OTC,Pizza,Medium,2,Done,"Cheese, Onion, Tomato, Capsicum",271,2024-10-03 11:00:00
+2024-10-03 00:00:00,11:00:00,OTC,Pizza,Medium,2,Done,"Cheese, Onion, Tomato, Capsicum",271,2024-10-03 11:00:00
+2024-10-03 00:00:00,11:00:00,Sandwich Cheese,Sandwich,,1,Pendng,"Bread, Cheese, Butter",175,2024-10-03 11:00:00
+2024-10-03 00:00:00,11:00:00,OTC,Pizza,Medium,2,Done,"Cheese, Onion, Tomato, Capsicum",271,2024-10-03 11:00:00
+2024-10-03 00:00:00,14:30:00,Paneer Special,Pizza,,3,Cancelld,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",253,2024-10-03 14:30:00
+2024-10-03 00:00:00,14:30:00,Paneer Special,Pizza,,3,Cancelld,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",253,2024-10-03 14:30:00
+2024-10-03 00:00:00,14:30:00,Paneer Special,Pizza,,3,Cancelld,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",253,2024-10-03 14:30:00
+2024-10-03 00:00:00,16:15:00,Oreo Shake,Shake,,1,Done,,282,2024-10-03 16:15:00
+2024-10-04 00:00:00,11:00:00,Herb Chili Potato,Burger,,2,Pendng,"Potato Patty, Herbs, Chili Flakes",233,2024-10-04 11:00:00
+2024-10-04 00:00:00,11:00:00,Herb Chili Potato,Burger,,2,Pendng,"Potato Patty, Herbs, Chili Flakes",233,2024-10-04 11:00:00
+2024-10-04 00:00:00,11:00:00,Herb Chili Potato,Burger,,2,Pendng,"Potato Patty, Herbs, Chili Flakes",233,2024-10-04 11:00:00
+2024-10-04 00:00:00,19:15:00,Veg Fingers,Appetizer,,1,Completed,,78,2024-10-04 19:15:00
+2024-10-04 00:00:00,22:00:00,Mint Mojito,Drink,,1,,"Mint, Soda, Lime",75,2024-10-04 22:00:00
+2024-10-05 00:00:00,16:00:00,Onion,Pizza,Medium,2,Cancelld,"Cheese, Onion",,2024-10-05 16:00:00
+2024-10-05 00:00:00,16:00:00,Onion,Pizza,Medium,2,Cancelld,"Cheese, Onion",,2024-10-05 16:00:00
+2024-10-05 00:00:00,16:00:00,Onion,Pizza,Medium,2,Cancelld,"Cheese, Onion",,2024-10-05 16:00:00
+2024-10-05 00:00:00,17:15:00,Red Sauce Pasta,Pasta,,1,,"Pasta, Red Sauce, Herbs",275,2024-10-05 17:15:00
+2024-10-06 00:00:00,11:00:00,Veggie Delight,Pizza,Small,1,Pendng,"Cheese, Onion, Capsicum, Sweet Corn",64,2024-10-06 11:00:00
+2024-10-06 00:00:00,11:00:00,Paneer Pizza,Pizza,Medium,1,,,287,2024-10-06 11:00:00
+2024-10-06 00:00:00,11:00:00,Paneer Pizza,Pizza,Medium,1,,,287,2024-10-06 11:00:00
+2024-10-06 00:00:00,12:30:00,Paneer Special,Pizza,,2,,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",123,2024-10-06 12:30:00
+2024-10-06 00:00:00,12:30:00,Paneer Special,Pizza,,2,,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",123,2024-10-06 12:30:00
+2024-10-06 00:00:00,12:30:00,Paneer Special,Pizza,,2,,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",123,2024-10-06 12:30:00
+2024-10-06 00:00:00,14:30:00,Paneer Pizza,Pizza,Medium,1,,,287,2024-10-06 14:30:00
+2024-10-06 00:00:00,16:00:00,Veggie Delight,Pizza,Small,1,Pendng,"Cheese, Onion, Capsicum, Sweet Corn",64,2024-10-06 16:00:00
+2024-10-06 00:00:00,17:15:00,Veggie Delight,Pizza,Small,1,Pendng,"Cheese, Onion, Capsicum, Sweet Corn",64,2024-10-06 17:15:00
+2024-10-06 00:00:00,22:00:00,Spicy Supreme,Garlic Bread,,1,Done,"Bread, Garlic, Chili Flakes, Cheese",156,2024-10-06 22:00:00
+2024-10-07 00:00:00,11:00:00,Regular Fries,Appetizer,,1,Cancelld,"Potato, Salt",143,2024-10-07 11:00:00
+2024-10-07 00:00:00,17:00:00,OTC,Pizza,Medium,1,Done,"Cheese, Onion, Tomato, Capsicum",74,2024-10-07 17:00:00
+2024-10-07 00:00:00,18:00:00,Aloo Tikki Wrap,Wrap,,2,Done,"Tikki, Onion, Sauce",236,2024-10-07 18:00:00
+2024-10-07 00:00:00,20:15:00,OTC,Pizza,Medium,1,Done,"Cheese, Onion, Tomato, Capsicum",74,2024-10-07 20:15:00
+2024-10-07 00:00:00,20:15:00,OTC,Pizza,Medium,1,Done,"Cheese, Onion, Tomato, Capsicum",74,2024-10-07 20:15:00
+2024-10-07 00:00:00,20:15:00,Choemain,Noodles,,1,Done,"Noodles, Vegetables, Sauce",285,2024-10-07 20:15:00
+2024-10-07 00:00:00,21:00:00,Chili Garlic Pops,Appetizer,,2,Pendng,"Potato, Garlic, Chili Flakes",198,2024-10-07 21:00:00
+2024-10-08 00:00:00,16:00:00,Onion,Pizza,Small,1,Done,"Cheese, Onion",252,2024-10-08 16:00:00
+2024-10-08 00:00:00,16:00:00,Onion,Pizza,Small,1,Done,"Cheese, Onion",252,2024-10-08 16:00:00
+2024-10-08 00:00:00,16:00:00,Onion,Pizza,Small,1,Done,"Cheese, Onion",252,2024-10-08 16:00:00
+2024-10-08 00:00:00,16:00:00,Cheesy Fire House,Burger,,2,,"Spicy Patty, Cheese, Lettuce",100,2024-10-08 16:00:00
+2024-10-08 00:00:00,16:00:00,Momos,Momos,,1,Done,,151,2024-10-08 16:00:00
+2024-10-08 00:00:00,18:15:00,Cheesy Fire House,Burger,,2,,"Spicy Patty, Cheese, Lettuce",100,2024-10-08 18:15:00
+2024-10-08 00:00:00,18:15:00,Cheesy Fire House,Burger,,2,,"Spicy Patty, Cheese, Lettuce",100,2024-10-08 18:15:00
+2024-10-08 00:00:00,22:00:00,White Sauce Pasta,Pasta,,1,Pendng,"Pasta, White Sauce, Corn",,2024-10-08 22:00:00
+2024-10-08 00:00:00,22:15:00,Sandwich Cheese,Sandwich,,1,Cancelld,"Bread, Cheese, Butter",85,2024-10-08 22:15:00
+2024-10-09 00:00:00,12:15:00,Double Trouble,Burger,,2,Pendng,,253,2024-10-09 12:15:00
+2024-10-09 00:00:00,12:15:00,Double Trouble,Burger,,2,Pendng,,253,2024-10-09 12:15:00
+2024-10-09 00:00:00,12:15:00,Double Trouble,Burger,,2,Pendng,,253,2024-10-09 12:15:00
+2024-10-09 00:00:00,18:00:00,Kitkat Shake,Shake,,2,,"Milk, Kitkat, Chocolate",78,2024-10-09 18:00:00
+2024-10-09 00:00:00,19:15:00,Cold Coffee,Drink,,1,,"Coffee, Milk, Sugar",67,2024-10-09 19:15:00
+2024-10-09 00:00:00,21:15:00,OTC,Pizza,,2,Done,"Cheese, Onion, Tomato, Capsicum",294,2024-10-09 21:15:00
+2024-10-09 00:00:00,21:15:00,OTC,Pizza,,2,Done,"Cheese, Onion, Tomato, Capsicum",294,2024-10-09 21:15:00
+2024-10-09 00:00:00,21:15:00,OTC,Pizza,,2,Done,"Cheese, Onion, Tomato, Capsicum",294,2024-10-09 21:15:00
+2024-10-10 00:00:00,17:00:00,Cold Coffee,Drink,,2,,"Coffee, Milk, Sugar",200,2024-10-10 17:00:00
+2024-10-10 00:00:00,17:00:00,Margh3rita,Pizza,Medium,2,Cancelld,Classic Cheese,63,2024-10-10 17:00:00
+2024-10-10 00:00:00,21:45:00,Margh3rita,Pizza,Medium,2,Cancelld,Classic Cheese,63,2024-10-10 21:45:00
+2024-10-10 00:00:00,21:45:00,Margh3rita,Pizza,Medium,2,Cancelld,Classic Cheese,63,2024-10-10 21:45:00
+2024-10-11 00:00:00,11:00:00,OTC,Pizza,Medium,1,Completed,"Cheese, Onion, Tomato, Capsicum",233,2024-10-11 11:00:00
+2024-10-11 00:00:00,11:00:00,OTC,Pizza,Medium,1,Completed,"Cheese, Onion, Tomato, Capsicum",233,2024-10-11 11:00:00
+2024-10-11 00:00:00,12:45:00,Corn,Pizza,Small,3,Completed,"Cheese, Corn",176,2024-10-11 12:45:00
+2024-10-11 00:00:00,16:00:00,Corn,Pizza,Small,3,Completed,"Cheese, Corn",176,2024-10-11 16:00:00
+2024-10-11 00:00:00,16:00:00,Corn,Pizza,Small,3,Completed,"Cheese, Corn",176,2024-10-11 16:00:00
+2024-10-11 00:00:00,21:15:00,Double Trouble,Burger,,1,Completed,,206,2024-10-11 21:15:00
+2024-10-11 00:00:00,21:15:00,Double Trouble,Burger,,1,Completed,,206,2024-10-11 21:15:00
+2024-10-11 00:00:00,21:15:00,Double Trouble,Burger,,1,Completed,,206,2024-10-11 21:15:00
+2024-10-11 00:00:00,22:15:00,OTC,Pizza,Medium,1,Completed,"Cheese, Onion, Tomato, Capsicum",233,2024-10-11 22:15:00
+2024-10-12 00:00:00,11:00:00,Cheese Balls,Appetizer,,1,Cancelld,"Cheese, Coating, Spices",,2024-10-12 11:00:00
+2024-10-12 00:00:00,14:30:00,Exotica,Pizza,,1,,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",269,2024-10-12 14:30:00
+2024-10-12 00:00:00,14:30:00,Exotica,Pizza,,1,,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",269,2024-10-12 14:30:00
+2024-10-12 00:00:00,14:30:00,Exotica,Pizza,,1,,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",269,2024-10-12 14:30:00
+2024-10-13 00:00:00,14:00:00,Peri Peri Fries,Appetizer,,2,Pendng,,106,2024-10-13 14:00:00
+2024-10-13 00:00:00,16:00:00,Kitkat Shake,Shake,,1,Pendng,"Milk, Kitkat, Chocolate",177,2024-10-13 16:00:00
+2024-10-13 00:00:00,17:00:00,Chili Garlic Pops,Appetizer,,1,Cancelld,"Potato, Garlic, Chili Flakes",,2024-10-13 17:00:00
+2024-10-13 00:00:00,18:30:00,Red Sauce Pasta,Pasta,,1,Pendng,"Pasta, Red Sauce, Herbs",128,2024-10-13 18:30:00
+2024-10-14 00:00:00,18:15:00,Mint Mojito,Drink,,1,Completed,"Mint, Soda, Lime",47,2024-10-14 18:15:00
+2024-10-14 00:00:00,20:45:00,Veggie Overloaded,Pizza,,2,Pendng,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",143,2024-10-14 20:45:00
+2024-10-14 00:00:00,20:45:00,Veggie Overloaded,Pizza,,2,Pendng,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",143,2024-10-14 20:45:00
+2024-10-14 00:00:00,20:45:00,Veggie Overloaded,Pizza,,2,Pendng,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",143,2024-10-14 20:45:00
+2024-10-15 00:00:00,10:15:00,Spicy Supreme,Garlic Bread,,2,,"Bread, Garlic, Chili Flakes, Cheese",94,2024-10-15 10:15:00
+2024-10-15 00:00:00,17:45:00,Ch33s3 Balls,Appetizer,,1,Completed,"Cheese, Coating, Spices",58,2024-10-15 17:45:00
+2024-10-16 00:00:00,11:00:00,High Five,Pizza,,2,Done,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",68,2024-10-16 11:00:00
+2024-10-16 00:00:00,11:15:00,High Five,Pizza,,2,Done,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",68,2024-10-16 11:15:00
+2024-10-16 00:00:00,17:00:00,High Five,Pizza,,2,Done,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",68,2024-10-16 17:00:00
+2024-10-16 00:00:00,18:00:00,Chocolate Shake,Shake,,2,Completed,"Milk, Chocolate Syrup",270,2024-10-16 18:00:00
+2024-10-17 00:00:00,10:30:00,Chocolat3 Shak3,Shake,,1,Pendng,"Milk, Chocolate Syrup",297,2024-10-17 10:30:00
+2024-10-17 00:00:00,16:45:00,Sandwich Cheese,Sandwich,,2,Cancelld,"Bread, Cheese, Butter",237,2024-10-17 16:45:00
+2024-10-18 00:00:00,11:00:00,Green Apple,Drink,,1,Cancelld,"Green Apple Syrup, Soda",46,2024-10-18 11:00:00
+2024-10-18 00:00:00,15:00:00,Veggie Delight,Pizza,,1,Pendng,"Cheese, Onion, Capsicum, Sweet Corn",250,2024-10-18 15:00:00
+2024-10-18 00:00:00,15:00:00,Veggie Delight,Pizza,,1,Pendng,"Cheese, Onion, Capsicum, Sweet Corn",250,2024-10-18 15:00:00
+2024-10-18 00:00:00,15:00:00,Veggie Delight,Pizza,,1,Pendng,"Cheese, Onion, Capsicum, Sweet Corn",250,2024-10-18 15:00:00
+2024-10-18 00:00:00,16:15:00,Cheese Balls,Appetizer,,2,Done,"Cheese, Coating, Spices",107,2024-10-18 16:15:00
+2024-10-18 00:00:00,16:30:00,Chili Garlic Pops,Appetizer,,1,Completed,,269,2024-10-18 16:30:00
+2024-10-19 00:00:00,11:00:00,Herb Chili Potato,Burger,,1,Completed,"Potato Patty, Herbs, Chili Flakes",60,2024-10-19 11:00:00
+2024-10-19 00:00:00,11:00:00,Spicy Paneer,Burger,,1,Pendng,,44,2024-10-19 11:00:00
+2024-10-19 00:00:00,16:15:00,Paneer Pizza,Pizza,,3,Pendng,"Cheese, Paneer, Onion, Tomato",295,2024-10-19 16:15:00
+2024-10-19 00:00:00,16:15:00,Paneer Pizza,Pizza,,3,Pendng,"Cheese, Paneer, Onion, Tomato",295,2024-10-19 16:15:00
+2024-10-19 00:00:00,16:15:00,Paneer Pizza,Pizza,,3,Pendng,"Cheese, Paneer, Onion, Tomato",295,2024-10-19 16:15:00
+2024-10-19 00:00:00,19:15:00,Herb Chili Potato,Burger,,1,Completed,"Potato Patty, Herbs, Chili Flakes",60,2024-10-19 19:15:00
+2024-10-19 00:00:00,19:15:00,Herb Chili Potato,Burger,,1,Completed,"Potato Patty, Herbs, Chili Flakes",60,2024-10-19 19:15:00
+2024-10-19 00:00:00,21:15:00,Spicy Paneer,Burger,,1,Pendng,,44,2024-10-19 21:15:00
+2024-10-19 00:00:00,21:15:00,Spicy Paneer,Burger,,1,Pendng,,44,2024-10-19 21:15:00
+2024-10-20 00:00:00,11:00:00,Spicy Paneer,Burger,,2,Pendng,,256,2024-10-20 11:00:00
+2024-10-20 00:00:00,11:00:00,Spicy Paneer,Burger,,2,Pendng,,256,2024-10-20 11:00:00
+2024-10-20 00:00:00,11:45:00,Corn,Pizza,Medium,3,Pendng,"Cheese, Corn",103,2024-10-20 11:45:00
+2024-10-20 00:00:00,11:45:00,Corn,Pizza,Medium,3,Pendng,"Cheese, Corn",103,2024-10-20 11:45:00
+2024-10-20 00:00:00,16:00:00,Corn,Pizza,Medium,3,Pendng,"Cheese, Corn",103,2024-10-20 16:00:00
+2024-10-20 00:00:00,17:00:00,Cho3main,Noodles,,4,Completed,"Noodles, Vegetables, Sauce",235,2024-10-20 17:00:00
+2024-10-20 00:00:00,18:00:00,Spicy Paneer,Burger,,2,Pendng,,256,2024-10-20 18:00:00
+2024-10-20 00:00:00,20:00:00,Paneer Special,Pizza,Small,2,Completed,,202,2024-10-20 20:00:00
+2024-10-20 00:00:00,20:00:00,Paneer Special,Pizza,Small,2,Completed,,202,2024-10-20 20:00:00
+2024-10-20 00:00:00,20:00:00,Paneer Special,Pizza,Small,2,Completed,,202,2024-10-20 20:00:00
+2024-10-21 00:00:00,10:30:00,Sandwich Cheese,Sandwich,,1,Cancelld,"Bread, Cheese, Butter",120,2024-10-21 10:30:00
+2024-10-21 00:00:00,11:00:00,Spicy Paneer,Burger,,3,Completed,,160,2024-10-21 11:00:00
+2024-10-21 00:00:00,11:00:00,Spicy Paneer,Burger,,3,Completed,,160,2024-10-21 11:00:00
+2024-10-21 00:00:00,14:30:00,Corn,Pizza,Small,1,,"Cheese, Corn",143,2024-10-21 14:30:00
+2024-10-21 00:00:00,16:00:00,Corn,Pizza,Small,1,,"Cheese, Corn",143,2024-10-21 16:00:00
+2024-10-21 00:00:00,17:00:00,Corn,Pizza,Small,1,,"Cheese, Corn",143,2024-10-21 17:00:00
+2024-10-21 00:00:00,22:00:00,Spicy Paneer,Burger,,3,Completed,,160,2024-10-21 22:00:00
+2024-10-21 00:00:00,22:00:00,Ch33s3 Balls,Appetizer,,1,Done,"Cheese, Coating, Spices",48,2024-10-21 22:00:00
+2024-10-22 00:00:00,12:30:00,Spicy Paneer,Burger,,1,,,130,2024-10-22 12:30:00
+2024-10-22 00:00:00,15:15:00,Chocolate Shake,Shake,,2,Cancelld,"Milk, Chocolate Syrup",197,2024-10-22 15:15:00
+2024-10-22 00:00:00,16:00:00,Spicy Paneer,Burger,,1,,,130,2024-10-22 16:00:00
+2024-10-22 00:00:00,17:00:00,Spicy Paneer,Burger,,1,,,130,2024-10-22 17:00:00
+2024-10-22 00:00:00,21:45:00,OTC,Pizza,Medium,1,Pendng,"Cheese, Onion, Tomato, Capsicum",284,2024-10-22 21:45:00
+2024-10-22 00:00:00,21:45:00,OTC,Pizza,Medium,1,Pendng,"Cheese, Onion, Tomato, Capsicum",284,2024-10-22 21:45:00
+2024-10-22 00:00:00,21:45:00,OTC,Pizza,Medium,1,Pendng,"Cheese, Onion, Tomato, Capsicum",284,2024-10-22 21:45:00
+2024-10-23 00:00:00,10:30:00,Vegetable Maggie,Maggie,,3,Completed,"Maggie, Vegetables, Spices",106,2024-10-23 10:30:00
+2024-10-23 00:00:00,11:00:00,Mint Mojito,Drink,,1,Cancelld,,106,2024-10-23 11:00:00
+2024-10-23 00:00:00,17:00:00,Exotica,Pizza,,1,Completed,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",130,2024-10-23 17:00:00
+2024-10-23 00:00:00,19:30:00,H3rb Chili Potato,Burger,,1,Done,"Potato Patty, Herbs, Chili Flakes",92,2024-10-23 19:30:00
+2024-10-23 00:00:00,19:30:00,H3rb Chili Potato,Burger,,1,Done,"Potato Patty, Herbs, Chili Flakes",92,2024-10-23 19:30:00
+2024-10-23 00:00:00,19:30:00,H3rb Chili Potato,Burger,,1,Done,"Potato Patty, Herbs, Chili Flakes",92,2024-10-23 19:30:00
+2024-10-23 00:00:00,21:45:00,Exotica,Pizza,,1,Completed,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",130,2024-10-23 21:45:00
+2024-10-23 00:00:00,21:45:00,Exotica,Pizza,,1,Completed,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",130,2024-10-23 21:45:00
+2024-10-24 00:00:00,12:45:00,Green Apple,Drink,,4,Pendng,"Green Apple Syrup, Soda",48,2024-10-24 12:45:00
+2024-10-24 00:00:00,13:00:00,Paneer Special,Pizza,Small,1,Cancelld,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",218,2024-10-24 13:00:00
+2024-10-24 00:00:00,13:00:00,Paneer Special,Pizza,Small,1,Cancelld,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",218,2024-10-24 13:00:00
+2024-10-24 00:00:00,13:00:00,Paneer Special,Pizza,Small,1,Cancelld,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",218,2024-10-24 13:00:00
+2024-10-24 00:00:00,13:45:00,Regular Fries,Appetizer,,2,Pendng,"Potato, Salt",113,2024-10-24 13:45:00
+2024-10-25 00:00:00,11:00:00,Double Trouble,Burger,,1,,"Double Patty, Cheese, Onion",,2024-10-25 11:00:00
+2024-10-25 00:00:00,11:30:00,Double Trouble,Burger,,1,,"Double Patty, Cheese, Onion",,2024-10-25 11:30:00
+2024-10-25 00:00:00,11:30:00,Double Trouble,Burger,,1,,"Double Patty, Cheese, Onion",,2024-10-25 11:30:00
+2024-10-25 00:00:00,11:45:00,OTC,Pizza,,2,,"Cheese, Onion, Tomato, Capsicum",175,2024-10-25 11:45:00
+2024-10-25 00:00:00,11:45:00,OTC,Pizza,,2,,"Cheese, Onion, Tomato, Capsicum",175,2024-10-25 11:45:00
+2024-10-25 00:00:00,16:00:00,OTC,Pizza,,2,,"Cheese, Onion, Tomato, Capsicum",175,2024-10-25 16:00:00
+2024-10-25 00:00:00,18:45:00,Momos,Momos,,,,"Dumplings, Veg Stuffing",105,2024-10-25 18:45:00
+2024-10-25 00:00:00,22:00:00,Mix Sauce Pasta,Pasta,,2,Pendng,"Pasta, Red Sauce, White Sauce, Veggies",165,2024-10-25 22:00:00
+2024-10-26 00:00:00,11:00:00,Double Trouble,Burger,,1,Done,"Double Patty, Cheese, Onion",117,2024-10-26 11:00:00
+2024-10-26 00:00:00,11:00:00,Spicy Veggie,Pizza,,1,Cancelld,"Cheese, Onion, Green Chili",139,2024-10-26 11:00:00
+2024-10-26 00:00:00,11:00:00,Country Feast,Pizza,Medium,1,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",160,2024-10-26 11:00:00
+2024-10-26 00:00:00,13:00:00,Country Feast,Pizza,Medium,1,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",160,2024-10-26 13:00:00
+2024-10-26 00:00:00,13:00:00,Country Feast,Pizza,Medium,1,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",160,2024-10-26 13:00:00
+2024-10-26 00:00:00,13:30:00,Sandwich Cheese,Sandwich,,2,,"Bread, Cheese, Butter",231,2024-10-26 13:30:00
+2024-10-26 00:00:00,14:45:00,Spicy Veggie,Pizza,,1,Cancelld,"Cheese, Onion, Green Chili",139,2024-10-26 14:45:00
+2024-10-26 00:00:00,14:45:00,Spicy Veggie,Pizza,,1,Cancelld,"Cheese, Onion, Green Chili",139,2024-10-26 14:45:00
+2024-10-26 00:00:00,22:15:00,Double Trouble,Burger,,1,Done,"Double Patty, Cheese, Onion",117,2024-10-26 22:15:00
+2024-10-26 00:00:00,22:15:00,Double Trouble,Burger,,1,Done,"Double Patty, Cheese, Onion",117,2024-10-26 22:15:00
+2024-10-27 00:00:00,11:00:00,Veg Fingers,Appetizer,,1,Pendng,"Veg Mix, Coating",216,2024-10-27 11:00:00
+2024-10-27 00:00:00,14:00:00,Margherita,Pizza,,1,Pendng,Classic Cheese,244,2024-10-27 14:00:00
+2024-10-27 00:00:00,14:00:00,Margherita,Pizza,,1,Pendng,Classic Cheese,244,2024-10-27 14:00:00
+2024-10-27 00:00:00,16:00:00,Margherita,Pizza,,1,Pendng,Classic Cheese,244,2024-10-27 16:00:00
+2024-10-27 00:00:00,17:00:00,Vegetable Maggie,Maggie,,2,Cancelld,"Maggie, Vegetables, Spices",163,2024-10-27 17:00:00
+2024-10-27 00:00:00,17:45:00,Cheese Wrap,Garlic Bread,,1,Completed,"Bread, Garlic, Cheese",43,2024-10-27 17:45:00
+2024-10-28 00:00:00,11:00:00,Margherita,Pizza,,1,,Classic Cheese,94,2024-10-28 11:00:00
+2024-10-28 00:00:00,11:00:00,Margherita,Pizza,,1,,Classic Cheese,94,2024-10-28 11:00:00
+2024-10-28 00:00:00,11:00:00,Margherita,Pizza,,1,,Classic Cheese,94,2024-10-28 11:00:00
+2024-10-28 00:00:00,13:15:00,Chocolate Shake,Shake,,2,Done,"Milk, Chocolate Syrup",253,2024-10-28 13:15:00
+2024-10-29 00:00:00,11:00:00,Spicy Supreme,Garlic Bread,,2,Pendng,"Bread, Garlic, Chili Flakes, Cheese",48,2024-10-29 11:00:00
+2024-10-29 00:00:00,11:00:00,Vegetable Maggie,Maggie,,2,Done,"Maggie, Vegetables, Spices",210,2024-10-29 11:00:00
+2024-10-29 00:00:00,17:00:00,Double Trouble,Burger,,1,Pendng,"Double Patty, Cheese, Onion",64,2024-10-29 17:00:00
+2024-10-29 00:00:00,19:30:00,Double Trouble,Burger,,1,Pendng,"Double Patty, Cheese, Onion",64,2024-10-29 19:30:00
+2024-10-29 00:00:00,19:30:00,Double Trouble,Burger,,1,Pendng,"Double Patty, Cheese, Onion",64,2024-10-29 19:30:00
+2024-10-30 00:00:00,11:00:00,Chili Garlic Pops,Appetizer,,1,Done,,293,2024-10-30 11:00:00
+2024-10-30 00:00:00,21:15:00,Onion,Pizza,Small,1,Pendng,"Cheese, Onion",143,2024-10-30 21:15:00
+2024-10-30 00:00:00,21:15:00,Onion,Pizza,Small,1,Pendng,"Cheese, Onion",143,2024-10-30 21:15:00
+2024-10-30 00:00:00,21:15:00,Onion,Pizza,Small,1,Pendng,"Cheese, Onion",143,2024-10-30 21:15:00
+2024-10-31 00:00:00,16:00:00,Peri Peri Fries,Appetizer,,1,Completed,"Potato, Peri Peri Masala",140,2024-10-31 16:00:00
+2024-10-31 00:00:00,19:15:00,Choemain,Noodles,,,Pendng,"Noodles, Vegetables, Sauce",262,2024-10-31 19:15:00
+2024-11-01 00:00:00,12:45:00,R3d Sauc3 Pasta,Pasta,,1,Cancelld,"Pasta, Red Sauce, Herbs",116,2024-11-01 12:45:00
+2024-11-01 00:00:00,18:30:00,Cheese Wrap,Garlic Bread,,2,Completed,,55,2024-11-01 18:30:00
+2024-11-02 00:00:00,11:00:00,Kitkat Shake,Shake,,1,Cancelld,"Milk, Kitkat, Chocolate",220,2024-11-02 11:00:00
+2024-11-02 00:00:00,12:15:00,Cheese Balls,Appetizer,,1,Completed,"Cheese, Coating, Spices",96,2024-11-02 12:15:00
+2024-11-03 00:00:00,11:15:00,Spicy Paneer,Burger,,,Completed,"Paneer Patty, Spices, Onion",168,2024-11-03 11:15:00
+2024-11-03 00:00:00,11:15:00,Spicy Paneer,Burger,,,Completed,"Paneer Patty, Spices, Onion",168,2024-11-03 11:15:00
+2024-11-03 00:00:00,11:15:00,Spicy Paneer,Burger,,,Completed,"Paneer Patty, Spices, Onion",168,2024-11-03 11:15:00
+2024-11-03 00:00:00,11:30:00,Cold Coffee,Drink,,2,Done,"Coffee, Milk, Sugar",214,2024-11-03 11:30:00
+2024-11-03 00:00:00,12:45:00,Paneer Wrap,Wrap,,1,Pendng,"Paneer, Sauce, Onion",282,2024-11-03 12:45:00
+2024-11-03 00:00:00,14:00:00,Chocolate Shake,Shake,,2,Cancelld,"Milk, Chocolate Syrup",105,2024-11-03 14:00:00
+2024-11-03 00:00:00,15:00:00,Veggie Delight,Pizza,,1,Pendng,,48,2024-11-03 15:00:00
+2024-11-03 00:00:00,15:00:00,Veggie Delight,Pizza,,1,Pendng,,48,2024-11-03 15:00:00
+2024-11-03 00:00:00,15:00:00,Veggie Delight,Pizza,,1,Pendng,,48,2024-11-03 15:00:00
+2024-11-04 00:00:00,11:00:00,Margherita,Pizza,Small,2,Pendng,Classic Cheese,294,2024-11-04 11:00:00
+2024-11-04 00:00:00,11:45:00,Spicy Veggie,Pizza,Small,2,Pendng,"Cheese, Onion, Green Chili",234,2024-11-04 11:45:00
+2024-11-04 00:00:00,11:45:00,Spicy Veggie,Pizza,Small,2,Pendng,"Cheese, Onion, Green Chili",234,2024-11-04 11:45:00
+2024-11-04 00:00:00,15:00:00,Margherita,Pizza,Small,2,Pendng,Classic Cheese,294,2024-11-04 15:00:00
+2024-11-04 00:00:00,16:00:00,Spicy Veggie,Pizza,Small,2,Pendng,"Cheese, Onion, Green Chili",234,2024-11-04 16:00:00
+2024-11-04 00:00:00,16:15:00,Onion,Pizza,Small,1,Completed,"Cheese, Onion",64,2024-11-04 16:15:00
+2024-11-04 00:00:00,16:15:00,Onion,Pizza,Small,1,Completed,"Cheese, Onion",64,2024-11-04 16:15:00
+2024-11-04 00:00:00,16:15:00,Onion,Pizza,Small,1,Completed,"Cheese, Onion",64,2024-11-04 16:15:00
+2024-11-04 00:00:00,17:00:00,Margherita,Pizza,Small,2,Pendng,Classic Cheese,294,2024-11-04 17:00:00
+2024-11-04 00:00:00,17:45:00,Sandwich,Burger,,1,Pendng,Extra Cheese Slice,132,2024-11-04 17:45:00
+2024-11-04 00:00:00,17:45:00,Sandwich,Burger,,1,Pendng,Extra Cheese Slice,132,2024-11-04 17:45:00
+2024-11-04 00:00:00,17:45:00,Sandwich,Burger,,1,Pendng,Extra Cheese Slice,132,2024-11-04 17:45:00
+2024-11-04 00:00:00,18:45:00,Chili Garlic Pops,Appetizer,,2,Completed,"Potato, Garlic, Chili Flakes",166,2024-11-04 18:45:00
+2024-11-05 00:00:00,18:45:00,Red Sauce Pasta,Pasta,,1,Completed,"Pasta, Red Sauce, Herbs",259,2024-11-05 18:45:00
+2024-11-05 00:00:00,21:15:00,Spicy Paneer,Burger,,1,Pendng,"Paneer Patty, Spices, Onion",161,2024-11-05 21:15:00
+2024-11-05 00:00:00,21:15:00,Spicy Paneer,Burger,,1,Pendng,"Paneer Patty, Spices, Onion",161,2024-11-05 21:15:00
+2024-11-05 00:00:00,21:15:00,Spicy Paneer,Burger,,1,Pendng,"Paneer Patty, Spices, Onion",161,2024-11-05 21:15:00
+2024-11-05 00:00:00,22:30:00,Green Apple,Drink,,1,Pendng,"Green Apple Syrup, Soda",64,2024-11-05 22:30:00
+2024-11-06 00:00:00,10:30:00,Spicy Veggie,Pizza,,1,Done,"Cheese, Onion, Green Chili",266,2024-11-06 10:30:00
+2024-11-06 00:00:00,10:30:00,Spicy Veggie,Pizza,,1,Done,"Cheese, Onion, Green Chili",266,2024-11-06 10:30:00
+2024-11-06 00:00:00,11:00:00,Cheese Balls,Appetizer,,3,Pendng,"Cheese, Coating, Spices",50,2024-11-06 11:00:00
+2024-11-06 00:00:00,13:00:00,High Five,Pizza,Small,1,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",180,2024-11-06 13:00:00
+2024-11-06 00:00:00,13:00:00,High Five,Pizza,Small,1,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",180,2024-11-06 13:00:00
+2024-11-06 00:00:00,13:00:00,High Five,Pizza,Small,1,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",180,2024-11-06 13:00:00
+2024-11-06 00:00:00,15:00:00,Mojito Blast,Drink,,3,Completed,"Mint, Lemon, Ice, Soda",51,2024-11-06 15:00:00
+2024-11-06 00:00:00,15:30:00,Pan33r Wrap,Wrap,,2,,"Paneer, Sauce, Onion",47,2024-11-06 15:30:00
+2024-11-06 00:00:00,16:00:00,Spicy Veggie,Pizza,,1,Done,"Cheese, Onion, Green Chili",266,2024-11-06 16:00:00
+2024-11-07 00:00:00,10:15:00,Red Sauce Pasta,Pasta,,2,Pendng,"Pasta, Red Sauce, Herbs",49,2024-11-07 10:15:00
+2024-11-07 00:00:00,13:00:00,Or3o Shak3,Shake,,1,,"Milk, Oreo, Chocolate",181,2024-11-07 13:00:00
+2024-11-07 00:00:00,15:30:00,Cheese Wrap,Garlic Bread,,1,Done,"Bread, Garlic, Cheese",47,2024-11-07 15:30:00
+2024-11-07 00:00:00,19:15:00,Country Feast,Pizza,,2,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",51,2024-11-07 19:15:00
+2024-11-07 00:00:00,19:15:00,Country Feast,Pizza,,2,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",51,2024-11-07 19:15:00
+2024-11-07 00:00:00,19:15:00,Country Feast,Pizza,,2,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",51,2024-11-07 19:15:00
+2024-11-08 00:00:00,11:00:00,Margherita,Pizza,Medium,1,Cancelld,Classic Cheese,167,2024-11-08 11:00:00
+2024-11-08 00:00:00,16:45:00,Margherita,Pizza,Medium,1,Cancelld,Classic Cheese,167,2024-11-08 16:45:00
+2024-11-08 00:00:00,17:00:00,Margherita,Pizza,Medium,1,Cancelld,Classic Cheese,167,2024-11-08 17:00:00
+2024-11-08 00:00:00,20:30:00,Chocolate Shake,Shake,,1,,"Milk, Chocolate Syrup",107,2024-11-08 20:30:00
+2024-11-09 00:00:00,15:15:00,Red Sauce Pasta,Pasta,,2,,"Pasta, Red Sauce, Herbs",130,2024-11-09 15:15:00
+2024-11-09 00:00:00,17:30:00,Peri Peri Fries,Appetizer,,1,Cancelld,"Potato, Peri Peri Masala",185,2024-11-09 17:30:00
+2024-11-09 00:00:00,18:45:00,Green Apple,Drink,,2,Pendng,"Green Apple Syrup, Soda",256,2024-11-09 18:45:00
+2024-11-10 00:00:00,16:00:00,Oreo Shake,Shake,,1,Done,"Milk, Oreo, Chocolate",177,2024-11-10 16:00:00
+2024-11-10 00:00:00,20:15:00,Cheesy Fire House,Burger,,1,Done,"Spicy Patty, Cheese, Lettuce",74,2024-11-10 20:15:00
+2024-11-10 00:00:00,20:15:00,Cheesy Fire House,Burger,,1,Done,"Spicy Patty, Cheese, Lettuce",74,2024-11-10 20:15:00
+2024-11-10 00:00:00,20:15:00,Cheesy Fire House,Burger,,1,Done,"Spicy Patty, Cheese, Lettuce",74,2024-11-10 20:15:00
+2024-11-11 00:00:00,11:00:00,Chocolate Shake,Shake,,1,Cancelld,"Milk, Chocolate Syrup",82,2024-11-11 11:00:00
+2024-11-11 00:00:00,13:00:00,Veg Popular,Burger,,,Pendng,"Veg Patty, Lettuce, Tomato",52,2024-11-11 13:00:00
+2024-11-11 00:00:00,13:00:00,Veg Popular,Burger,,,Pendng,"Veg Patty, Lettuce, Tomato",52,2024-11-11 13:00:00
+2024-11-11 00:00:00,13:00:00,Veg Popular,Burger,,,Pendng,"Veg Patty, Lettuce, Tomato",52,2024-11-11 13:00:00
+2024-11-12 00:00:00,12:15:00,Paneer Special,Pizza,Small,1,Completed,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",293,2024-11-12 12:15:00
+2024-11-12 00:00:00,12:15:00,Paneer Special,Pizza,Small,1,Completed,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",293,2024-11-12 12:15:00
+2024-11-12 00:00:00,14:45:00,Country F3ast,Pizza,Small,2,Done,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",41,2024-11-12 14:45:00
+2024-11-12 00:00:00,14:45:00,Country F3ast,Pizza,Small,2,Done,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",41,2024-11-12 14:45:00
+2024-11-12 00:00:00,14:45:00,Country F3ast,Pizza,Small,2,Done,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",41,2024-11-12 14:45:00
+2024-11-12 00:00:00,16:00:00,Paneer Special,Pizza,Small,1,Completed,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",293,2024-11-12 16:00:00
+2024-11-13 00:00:00,11:00:00,Cheesy Fire House,Burger,,1,Pendng,"Spicy Patty, Cheese, Lettuce",145,2024-11-13 11:00:00
+2024-11-13 00:00:00,11:00:00,High Five,Pizza,,2,Completed,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",144,2024-11-13 11:00:00
+2024-11-13 00:00:00,14:45:00,High Five,Pizza,,2,Completed,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",144,2024-11-13 14:45:00
+2024-11-13 00:00:00,14:45:00,High Five,Pizza,,2,Completed,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",144,2024-11-13 14:45:00
+2024-11-13 00:00:00,15:15:00,Onion,Pizza,Small,2,,"Cheese, Onion",252,2024-11-13 15:15:00
+2024-11-13 00:00:00,15:15:00,Onion,Pizza,Small,2,,"Cheese, Onion",252,2024-11-13 15:15:00
+2024-11-13 00:00:00,15:15:00,Onion,Pizza,Small,2,,"Cheese, Onion",252,2024-11-13 15:15:00
+2024-11-13 00:00:00,16:00:00,Cheesy Fire House,Burger,,1,Pendng,"Spicy Patty, Cheese, Lettuce",145,2024-11-13 16:00:00
+2024-11-13 00:00:00,16:00:00,Cheesy Fire House,Burger,,1,Pendng,"Spicy Patty, Cheese, Lettuce",145,2024-11-13 16:00:00
+2024-11-13 00:00:00,17:00:00,Sandwich Cheese,Sandwich,,1,,"Bread, Cheese, Butter",220,2024-11-13 17:00:00
+2024-11-14 00:00:00,11:00:00,Spicy Paneer,Burger,,3,,"Paneer Patty, Spices, Onion",215,2024-11-14 11:00:00
+2024-11-14 00:00:00,16:30:00,Aloo Tikki Wrap,Wrap,,1,Pendng,"Tikki, Onion, Sauce",130,2024-11-14 16:30:00
+2024-11-14 00:00:00,16:45:00,Sandwich Cheese,Sandwich,,3,Pendng,"Bread, Cheese, Butter",294,2024-11-14 16:45:00
+2024-11-14 00:00:00,17:30:00,Sandwich,Burger,,2,Completed,Extra Cheese Slice,258,2024-11-14 17:30:00
+2024-11-14 00:00:00,17:30:00,Sandwich,Burger,,2,Completed,Extra Cheese Slice,258,2024-11-14 17:30:00
+2024-11-14 00:00:00,17:30:00,Sandwich,Burger,,2,Completed,Extra Cheese Slice,258,2024-11-14 17:30:00
+2024-11-14 00:00:00,19:45:00,Mix Sauce Pasta,Pasta,,1,Completed,"Pasta, Red Sauce, White Sauce, Veggies",123,2024-11-14 19:45:00
+2024-11-14 00:00:00,22:45:00,Spicy Paneer,Burger,,3,,"Paneer Patty, Spices, Onion",215,2024-11-14 22:45:00
+2024-11-14 00:00:00,22:45:00,Spicy Paneer,Burger,,3,,"Paneer Patty, Spices, Onion",215,2024-11-14 22:45:00
+2024-11-15 00:00:00,13:45:00,Herb Chili Potato,Burger,,2,Pendng,"Potato Patty, Herbs, Chili Flakes",234,2024-11-15 13:45:00
+2024-11-15 00:00:00,13:45:00,Herb Chili Potato,Burger,,2,Pendng,"Potato Patty, Herbs, Chili Flakes",234,2024-11-15 13:45:00
+2024-11-15 00:00:00,13:45:00,Herb Chili Potato,Burger,,2,Pendng,"Potato Patty, Herbs, Chili Flakes",234,2024-11-15 13:45:00
+2024-11-15 00:00:00,16:00:00,Paneer Wrap,Wrap,,2,Done,,138,2024-11-15 16:00:00
+2024-11-15 00:00:00,18:45:00,Red Sauce Pasta,Pasta,,1,Completed,"Pasta, Red Sauce, Herbs",194,2024-11-15 18:45:00
+2024-11-15 00:00:00,22:15:00,Mint Mojito,Drink,,1,Pendng,"Mint, Soda, Lime",140,2024-11-15 22:15:00
+2024-11-16 00:00:00,13:15:00,Veggie Overloaded,Pizza,Medium,2,,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",122,2024-11-16 13:15:00
+2024-11-16 00:00:00,13:15:00,Veggie Overloaded,Pizza,Medium,2,,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",122,2024-11-16 13:15:00
+2024-11-16 00:00:00,13:15:00,Veggie Overloaded,Pizza,Medium,2,,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",122,2024-11-16 13:15:00
+2024-11-16 00:00:00,17:00:00,Mix Sauce Pasta,Pasta,,2,Pendng,"Pasta, Red Sauce, White Sauce, Veggies",149,2024-11-16 17:00:00
+2024-11-17 00:00:00,12:15:00,Veg Popular,Burger,,2,,"Veg Patty, Lettuce, Tomato",70,2024-11-17 12:15:00
+2024-11-17 00:00:00,12:15:00,Veg Popular,Burger,,2,,"Veg Patty, Lettuce, Tomato",70,2024-11-17 12:15:00
+2024-11-17 00:00:00,13:15:00,OTC,Pizza,,1,,"Cheese, Onion, Tomato, Capsicum",286,2024-11-17 13:15:00
+2024-11-17 00:00:00,13:15:00,OTC,Pizza,,1,,"Cheese, Onion, Tomato, Capsicum",286,2024-11-17 13:15:00
+2024-11-17 00:00:00,13:15:00,OTC,Pizza,,1,,"Cheese, Onion, Tomato, Capsicum",286,2024-11-17 13:15:00
+2024-11-17 00:00:00,14:15:00,Cheese Wrap,Garlic Bread,,1,Done,"Bread, Garlic, Cheese",198,2024-11-17 14:15:00
+2024-11-17 00:00:00,16:00:00,Veg Popular,Burger,,2,,"Veg Patty, Lettuce, Tomato",70,2024-11-17 16:00:00
+2024-11-17 00:00:00,19:45:00,Paneer Wrap,Wrap,,2,,"Paneer, Sauce, Onion",87,2024-11-17 19:45:00
+2024-11-17 00:00:00,21:45:00,Mint Mojito,Drink,,2,Cancelld,"Mint, Soda, Lime",170,2024-11-17 21:45:00
+2024-11-18 00:00:00,11:30:00,Veggie Delight,Pizza,Small,1,Completed,"Cheese, Onion, Capsicum, Sweet Corn",153,2024-11-18 11:30:00
+2024-11-18 00:00:00,11:30:00,Veggie Delight,Pizza,Small,1,Completed,"Cheese, Onion, Capsicum, Sweet Corn",153,2024-11-18 11:30:00
+2024-11-18 00:00:00,11:30:00,Veggie Delight,Pizza,Small,1,Completed,"Cheese, Onion, Capsicum, Sweet Corn",153,2024-11-18 11:30:00
+2024-11-18 00:00:00,14:15:00,Peri Peri Fries,Appetizer,,2,Cancelld,,283,2024-11-18 14:15:00
+2024-11-18 00:00:00,17:00:00,High Five,Pizza,Medium,2,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",97,2024-11-18 17:00:00
+2024-11-18 00:00:00,17:45:00,Spicy Supreme,Garlic Bread,,1,Done,"Bread, Garlic, Chili Flakes, Cheese",69,2024-11-18 17:45:00
+2024-11-18 00:00:00,21:15:00,High Five,Pizza,Medium,2,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",97,2024-11-18 21:15:00
+2024-11-18 00:00:00,21:15:00,High Five,Pizza,Medium,2,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",97,2024-11-18 21:15:00
+2024-11-19 00:00:00,10:15:00,Veg Fingers,Appetizer,,2,Cancelld,"Veg Mix, Coating",263,2024-11-19 10:15:00
+2024-11-19 00:00:00,11:00:00,Double Trouble,Burger,,2,Completed,"Double Patty, Cheese, Onion",43,2024-11-19 11:00:00
+2024-11-19 00:00:00,13:45:00,Double Trouble,Burger,,2,Completed,"Double Patty, Cheese, Onion",43,2024-11-19 13:45:00
+2024-11-19 00:00:00,13:45:00,Double Trouble,Burger,,2,Completed,"Double Patty, Cheese, Onion",43,2024-11-19 13:45:00
+2024-11-20 00:00:00,11:00:00,Spicy Veggie,Pizza,Small,1,Cancelld,,221,2024-11-20 11:00:00
+2024-11-20 00:00:00,17:00:00,Veg Popular,Burger,,1,Done,"Veg Patty, Lettuce, Tomato",70,2024-11-20 17:00:00
+2024-11-20 00:00:00,17:15:00,Veg Popular,Burger,,1,Done,"Veg Patty, Lettuce, Tomato",70,2024-11-20 17:15:00
+2024-11-20 00:00:00,17:15:00,Veg Popular,Burger,,1,Done,"Veg Patty, Lettuce, Tomato",70,2024-11-20 17:15:00
+2024-11-20 00:00:00,20:30:00,Spicy Veggie,Pizza,Small,1,Cancelld,,221,2024-11-20 20:30:00
+2024-11-20 00:00:00,20:30:00,Spicy Veggie,Pizza,Small,1,Cancelld,,221,2024-11-20 20:30:00
+2024-11-20 00:00:00,20:45:00,Sandwich,Burger,,2,Completed,Extra Cheese Slice,77,2024-11-20 20:45:00
+2024-11-20 00:00:00,20:45:00,Sandwich,Burger,,2,Completed,Extra Cheese Slice,77,2024-11-20 20:45:00
+2024-11-20 00:00:00,20:45:00,Sandwich,Burger,,2,Completed,Extra Cheese Slice,77,2024-11-20 20:45:00
+2024-11-21 00:00:00,14:15:00,Sandwich Cheese,Sandwich,,2,Completed,,277,2024-11-21 14:15:00
+2024-11-21 00:00:00,19:30:00,Spicy Veggie,Pizza,Small,2,Done,"Cheese, Onion, Green Chili",90,2024-11-21 19:30:00
+2024-11-21 00:00:00,19:30:00,Spicy Veggie,Pizza,Small,2,Done,"Cheese, Onion, Green Chili",90,2024-11-21 19:30:00
+2024-11-21 00:00:00,19:30:00,Spicy Veggie,Pizza,Small,2,Done,"Cheese, Onion, Green Chili",90,2024-11-21 19:30:00
+2024-11-21 00:00:00,21:15:00,Cheesy Fire House,Burger,,1,Pendng,"Spicy Patty, Cheese, Lettuce",296,2024-11-21 21:15:00
+2024-11-21 00:00:00,21:15:00,Cheesy Fire House,Burger,,1,Pendng,"Spicy Patty, Cheese, Lettuce",296,2024-11-21 21:15:00
+2024-11-21 00:00:00,21:15:00,Cheesy Fire House,Burger,,1,Pendng,"Spicy Patty, Cheese, Lettuce",296,2024-11-21 21:15:00
+2024-11-22 00:00:00,11:00:00,Add Ch33s3 Slic3,Burger,,1,Pendng,,225,2024-11-22 11:00:00
+2024-11-22 00:00:00,16:15:00,Choemain,Noodles,,,Done,"Noodles, Vegetables, Sauce",189,2024-11-22 16:15:00
+2024-11-22 00:00:00,16:30:00,Veggie Delight,Pizza,Medium,1,Done,"Cheese, Onion, Capsicum, Sweet Corn",,2024-11-22 16:30:00
+2024-11-22 00:00:00,16:30:00,Veggie Delight,Pizza,Medium,1,Done,"Cheese, Onion, Capsicum, Sweet Corn",,2024-11-22 16:30:00
+2024-11-22 00:00:00,16:30:00,Veggie Delight,Pizza,Medium,1,Done,"Cheese, Onion, Capsicum, Sweet Corn",,2024-11-22 16:30:00
+2024-11-22 00:00:00,20:30:00,Add Ch33s3 Slic3,Burger,,1,Pendng,,225,2024-11-22 20:30:00
+2024-11-22 00:00:00,20:30:00,Add Ch33s3 Slic3,Burger,,1,Pendng,,225,2024-11-22 20:30:00
+2024-11-22 00:00:00,22:00:00,Momos,Momos,,1,Pendng,"Dumplings, Veg Stuffing",214,2024-11-22 22:00:00
+2024-11-23 00:00:00,14:15:00,Chocolate Shake,Shake,,2,Cancelld,"Milk, Chocolate Syrup",286,2024-11-23 14:15:00
+2024-11-23 00:00:00,15:00:00,Margherita,Pizza,Small,2,,Classic Cheese,98,2024-11-23 15:00:00
+2024-11-23 00:00:00,15:00:00,Margherita,Pizza,Small,2,,Classic Cheese,98,2024-11-23 15:00:00
+2024-11-23 00:00:00,15:00:00,Margherita,Pizza,Small,2,,Classic Cheese,98,2024-11-23 15:00:00
+2024-11-23 00:00:00,17:00:00,OTC,Pizza,Small,2,Completed,"Cheese, Onion, Tomato, Capsicum",131,2024-11-23 17:00:00
+2024-11-23 00:00:00,17:00:00,Oreo Shake,Shake,,,,"Milk, Oreo, Chocolate",151,2024-11-23 17:00:00
+2024-11-23 00:00:00,17:45:00,OTC,Pizza,Small,2,Completed,"Cheese, Onion, Tomato, Capsicum",131,2024-11-23 17:45:00
+2024-11-23 00:00:00,17:45:00,OTC,Pizza,Small,2,Completed,"Cheese, Onion, Tomato, Capsicum",131,2024-11-23 17:45:00
+2024-11-24 00:00:00,10:15:00,Paneer Wrap,Wrap,,1,Pendng,"Paneer, Sauce, Onion",,2024-11-24 10:15:00
+2024-11-24 00:00:00,19:45:00,Mix Sauce Pasta,Pasta,,1,Cancelld,"Pasta, Red Sauce, White Sauce, Veggies",140,2024-11-24 19:45:00
+2024-11-24 00:00:00,22:30:00,Veg Fingers,Appetizer,,4,Completed,"Veg Mix, Coating",296,2024-11-24 22:30:00
+2024-11-25 00:00:00,10:45:00,OTC,Pizza,,2,Cancelld,"Cheese, Onion, Tomato, Capsicum",66,2024-11-25 10:45:00
+2024-11-25 00:00:00,11:00:00,OTC,Pizza,,2,Cancelld,"Cheese, Onion, Tomato, Capsicum",66,2024-11-25 11:00:00
+2024-11-25 00:00:00,13:15:00,Regular Fries,Appetizer,,1,Done,"Potato, Salt",219,2024-11-25 13:15:00
+2024-11-25 00:00:00,17:00:00,OTC,Pizza,,2,Cancelld,"Cheese, Onion, Tomato, Capsicum",66,2024-11-25 17:00:00
+2024-11-25 00:00:00,17:00:00,Green Apple,Drink,,1,Completed,"Green Apple Syrup, Soda",298,2024-11-25 17:00:00
+2024-11-25 00:00:00,17:45:00,Onion,Pizza,Medium,1,Completed,"Cheese, Onion",63,2024-11-25 17:45:00
+2024-11-25 00:00:00,17:45:00,Onion,Pizza,Medium,1,Completed,"Cheese, Onion",63,2024-11-25 17:45:00
+2024-11-25 00:00:00,17:45:00,Onion,Pizza,Medium,1,Completed,"Cheese, Onion",63,2024-11-25 17:45:00
+2024-11-26 00:00:00,11:00:00,Strawberry Shake,Shake,,4,Cancelld,"Milk, Strawberry Syrup",153,2024-11-26 11:00:00
+2024-11-26 00:00:00,11:15:00,OTC,Pizza,Small,3,,"Cheese, Onion, Tomato, Capsicum",242,2024-11-26 11:15:00
+2024-11-26 00:00:00,11:15:00,OTC,Pizza,Small,3,,"Cheese, Onion, Tomato, Capsicum",242,2024-11-26 11:15:00
+2024-11-26 00:00:00,11:15:00,OTC,Pizza,Small,3,,"Cheese, Onion, Tomato, Capsicum",242,2024-11-26 11:15:00
+2024-11-27 00:00:00,11:00:00,Veg Popular,Burger,,,Cancelld,"Veg Patty, Lettuce, Tomato",190,2024-11-27 11:00:00
+2024-11-27 00:00:00,11:30:00,Veggie Overloaded,Pizza,,1,,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",76,2024-11-27 11:30:00
+2024-11-27 00:00:00,11:30:00,Veggie Overloaded,Pizza,,1,,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",76,2024-11-27 11:30:00
+2024-11-27 00:00:00,11:30:00,Veggie Overloaded,Pizza,,1,,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",76,2024-11-27 11:30:00
+2024-11-27 00:00:00,15:00:00,Sandwich,Burger,,3,Pendng,Extra Cheese Slice,216,2024-11-27 15:00:00
+2024-11-27 00:00:00,15:00:00,Sandwich,Burger,,3,Pendng,Extra Cheese Slice,216,2024-11-27 15:00:00
+2024-11-27 00:00:00,15:00:00,Sandwich,Burger,,3,Pendng,Extra Cheese Slice,216,2024-11-27 15:00:00
+2024-11-27 00:00:00,17:00:00,Veg Popular,Burger,,,Cancelld,"Veg Patty, Lettuce, Tomato",190,2024-11-27 17:00:00
+2024-11-27 00:00:00,17:00:00,Veg Popular,Burger,,,Cancelld,"Veg Patty, Lettuce, Tomato",190,2024-11-27 17:00:00
+2024-11-27 00:00:00,19:00:00,Aloo Tikki Wrap,Wrap,,3,Completed,"Tikki, Onion, Sauce",108,2024-11-27 19:00:00
+2024-11-27 00:00:00,20:30:00,Chili Garlic Pops,Appetizer,,1,,"Potato, Garlic, Chili Flakes",,2024-11-27 20:30:00
+2024-11-28 00:00:00,17:30:00,Chili Garlic Pops,Appetizer,,1,Done,"Potato, Garlic, Chili Flakes",130,2024-11-28 17:30:00
+2024-11-28 00:00:00,22:15:00,Oreo Shake,Shake,,2,,"Milk, Oreo, Chocolate",139,2024-11-28 22:15:00
+2024-11-29 00:00:00,10:30:00,Oreo Shake,Shake,,1,Cancelld,"Milk, Oreo, Chocolate",237,2024-11-29 10:30:00
+2024-11-29 00:00:00,12:30:00,Strawberry Shake,Shake,,2,Pendng,"Milk, Strawberry Syrup",152,2024-11-29 12:30:00
+2024-11-29 00:00:00,18:30:00,Spicy Supreme,Garlic Bread,,3,Done,"Bread, Garlic, Chili Flakes, Cheese",185,2024-11-29 18:30:00
+2024-11-30 00:00:00,11:45:00,Regular Fries,Appetizer,,,,"Potato, Salt",,2024-11-30 11:45:00
+2024-11-30 00:00:00,12:15:00,Veg Fingers,Appetizer,,2,Completed,"Veg Mix, Coating",93,2024-11-30 12:15:00
+2024-11-30 00:00:00,17:00:00,Peri Peri Fries,Appetizer,,2,,"Potato, Peri Peri Masala",231,2024-11-30 17:00:00
+2024-12-01 00:00:00,11:00:00,Paneer Wrap,Wrap,,1,Pendng,"Paneer, Sauce, Onion",158,2024-12-01 11:00:00
+2024-12-01 00:00:00,18:45:00,Veggie Overloaded,Pizza,,1,Cancelld,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",152,2024-12-01 18:45:00
+2024-12-01 00:00:00,18:45:00,Veggie Overloaded,Pizza,,1,Cancelld,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",152,2024-12-01 18:45:00
+2024-12-01 00:00:00,18:45:00,Veggie Overloaded,Pizza,,1,Cancelld,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",152,2024-12-01 18:45:00
+2024-12-02 00:00:00,11:30:00,Chocolate Shake,Shake,,1,Completed,"Milk, Chocolate Syrup",229,2024-12-02 11:30:00
+2024-12-02 00:00:00,16:15:00,Mint Mojito,Drink,,2,Cancelld,,121,2024-12-02 16:15:00
+2024-12-02 00:00:00,16:45:00,Aloo Tikki Wrap,Wrap,,2,,"Tikki, Onion, Sauce",138,2024-12-02 16:45:00
+2024-12-02 00:00:00,21:30:00,Cheesy Fire House,Burger,,,Completed,"Spicy Patty, Cheese, Lettuce",219,2024-12-02 21:30:00
+2024-12-02 00:00:00,21:30:00,Oreo Shake,Shake,,2,Pendng,"Milk, Oreo, Chocolate",212,2024-12-02 21:30:00
+2024-12-02 00:00:00,21:30:00,Cheesy Fire House,Burger,,,Completed,"Spicy Patty, Cheese, Lettuce",219,2024-12-02 21:30:00
+2024-12-02 00:00:00,21:30:00,Cheesy Fire House,Burger,,,Completed,"Spicy Patty, Cheese, Lettuce",219,2024-12-02 21:30:00
+2024-12-03 00:00:00,11:00:00,Regular Fries,Appetizer,,2,Completed,,289,2024-12-03 11:00:00
+2024-12-03 00:00:00,13:00:00,Sandwich Cheese,Sandwich,,2,Done,"Bread, Cheese, Butter",81,2024-12-03 13:00:00
+2024-12-03 00:00:00,13:45:00,Double Trouble,Burger,,1,Cancelld,"Double Patty, Cheese, Onion",45,2024-12-03 13:45:00
+2024-12-03 00:00:00,13:45:00,Double Trouble,Burger,,1,Cancelld,"Double Patty, Cheese, Onion",45,2024-12-03 13:45:00
+2024-12-03 00:00:00,17:00:00,Double Trouble,Burger,,1,Cancelld,"Double Patty, Cheese, Onion",45,2024-12-03 17:00:00
+2024-12-03 00:00:00,17:15:00,Mint Mojito,Drink,,1,Pendng,"Mint, Soda, Lime",205,2024-12-03 17:15:00
+2024-12-03 00:00:00,18:15:00,Veggie Delight,Pizza,Medium,3,Pendng,"Cheese, Onion, Capsicum, Sweet Corn",176,2024-12-03 18:15:00
+2024-12-03 00:00:00,18:15:00,Veggie Delight,Pizza,Medium,3,Pendng,"Cheese, Onion, Capsicum, Sweet Corn",176,2024-12-03 18:15:00
+2024-12-03 00:00:00,18:15:00,Veggie Delight,Pizza,Medium,3,Pendng,"Cheese, Onion, Capsicum, Sweet Corn",176,2024-12-03 18:15:00
+2024-12-04 00:00:00,13:45:00,Cheesy Fire House,Burger,,1,Completed,"Spicy Patty, Cheese, Lettuce",197,2024-12-04 13:45:00
+2024-12-04 00:00:00,13:45:00,Cheesy Fire House,Burger,,1,Completed,"Spicy Patty, Cheese, Lettuce",197,2024-12-04 13:45:00
+2024-12-04 00:00:00,13:45:00,Cheesy Fire House,Burger,,1,Completed,"Spicy Patty, Cheese, Lettuce",197,2024-12-04 13:45:00
+2024-12-04 00:00:00,14:15:00,Pan33r Sp3cial,Pizza,Small,2,Done,,177,2024-12-04 14:15:00
+2024-12-04 00:00:00,14:15:00,Pan33r Sp3cial,Pizza,Small,2,Done,,177,2024-12-04 14:15:00
+2024-12-04 00:00:00,14:15:00,Pan33r Sp3cial,Pizza,Small,2,Done,,177,2024-12-04 14:15:00
+2024-12-04 00:00:00,14:30:00,Corn,Pizza,Small,1,Pendng,"Cheese, Corn",108,2024-12-04 14:30:00
+2024-12-04 00:00:00,14:30:00,Corn,Pizza,Small,1,Pendng,"Cheese, Corn",108,2024-12-04 14:30:00
+2024-12-04 00:00:00,14:30:00,Corn,Pizza,Small,1,Pendng,"Cheese, Corn",108,2024-12-04 14:30:00
+2024-12-04 00:00:00,14:45:00,Green Apple,Drink,,1,Done,"Green Apple Syrup, Soda",187,2024-12-04 14:45:00
+2024-12-05 00:00:00,10:15:00,Veg Popular,Burger,,1,Cancelld,"Veg Patty, Lettuce, Tomato",70,2024-12-05 10:15:00
+2024-12-05 00:00:00,10:15:00,Veg Popular,Burger,,1,Cancelld,"Veg Patty, Lettuce, Tomato",70,2024-12-05 10:15:00
+2024-12-05 00:00:00,11:00:00,Veg Popular,Burger,,1,Cancelld,"Veg Patty, Lettuce, Tomato",70,2024-12-05 11:00:00
+2024-12-05 00:00:00,16:45:00,Chili Garlic Pops,Appetizer,,1,Pendng,"Potato, Garlic, Chili Flakes",136,2024-12-05 16:45:00
+2024-12-05 00:00:00,17:15:00,Cheese Wrap,Garlic Bread,,1,Completed,"Bread, Garlic, Cheese",244,2024-12-05 17:15:00
+2024-12-05 00:00:00,18:00:00,Chocolate Shake,Shake,,,Cancelld,,281,2024-12-05 18:00:00
+2024-12-06 00:00:00,12:30:00,Veg Popular,Burger,,1,Done,"Veg Patty, Lettuce, Tomato",,2024-12-06 12:30:00
+2024-12-06 00:00:00,12:30:00,Veg Popular,Burger,,1,Done,"Veg Patty, Lettuce, Tomato",,2024-12-06 12:30:00
+2024-12-06 00:00:00,12:30:00,Veg Popular,Burger,,1,Done,"Veg Patty, Lettuce, Tomato",,2024-12-06 12:30:00
+2024-12-06 00:00:00,17:00:00,Margherita,Pizza,Small,2,Done,Classic Cheese,235,2024-12-06 17:00:00
+2024-12-06 00:00:00,17:00:00,Margherita,Pizza,Small,2,Done,Classic Cheese,235,2024-12-06 17:00:00
+2024-12-06 00:00:00,17:00:00,Margherita,Pizza,Small,2,Done,Classic Cheese,235,2024-12-06 17:00:00
+2024-12-06 00:00:00,21:15:00,Mojito Blast,Drink,,1,Completed,"Mint, Lemon, Ice, Soda",277,2024-12-06 21:15:00
+2024-12-06 00:00:00,21:15:00,Cold Coffee,Drink,,1,Pendng,"Coffee, Milk, Sugar",129,2024-12-06 21:15:00
+2024-12-07 00:00:00,11:00:00,Aloo Tikki Wrap,Wrap,,2,,"Tikki, Onion, Sauce",251,2024-12-07 11:00:00
+2024-12-07 00:00:00,11:00:00,Green Apple,Drink,,1,Completed,"Green Apple Syrup, Soda",237,2024-12-07 11:00:00
+2024-12-07 00:00:00,13:00:00,Chocolate Shake,Shake,,1,,"Milk, Chocolate Syrup",134,2024-12-07 13:00:00
+2024-12-07 00:00:00,16:00:00,Vegetable Maggie,Maggie,,1,Completed,"Maggie, Vegetables, Spices",200,2024-12-07 16:00:00
+2024-12-07 00:00:00,17:00:00,Mint Mojito,Drink,,1,Cancelld,"Mint, Soda, Lime",230,2024-12-07 17:00:00
+2024-12-08 00:00:00,13:45:00,Country Feast,Pizza,,1,,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",249,2024-12-08 13:45:00
+2024-12-08 00:00:00,13:45:00,High Five,Pizza,Medium,1,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",150,2024-12-08 13:45:00
+2024-12-08 00:00:00,13:45:00,High Five,Pizza,Medium,1,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",150,2024-12-08 13:45:00
+2024-12-08 00:00:00,13:45:00,Country Feast,Pizza,,1,,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",249,2024-12-08 13:45:00
+2024-12-08 00:00:00,13:45:00,High Five,Pizza,Medium,1,Cancelld,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",150,2024-12-08 13:45:00
+2024-12-08 00:00:00,16:30:00,Veggie Delight,Pizza,Medium,1,Done,"Cheese, Onion, Capsicum, Sweet Corn",268,2024-12-08 16:30:00
+2024-12-08 00:00:00,16:30:00,Veggie Delight,Pizza,Medium,1,Done,"Cheese, Onion, Capsicum, Sweet Corn",268,2024-12-08 16:30:00
+2024-12-08 00:00:00,16:30:00,Veggie Delight,Pizza,Medium,1,Done,"Cheese, Onion, Capsicum, Sweet Corn",268,2024-12-08 16:30:00
+2024-12-08 00:00:00,17:00:00,Chocolate Shake,Shake,,3,Cancelld,"Milk, Chocolate Syrup",66,2024-12-08 17:00:00
+2024-12-08 00:00:00,17:00:00,Country Feast,Pizza,,1,,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",249,2024-12-08 17:00:00
+2024-12-08 00:00:00,17:30:00,Spicy Supreme,Garlic Bread,,1,Completed,"Bread, Garlic, Chili Flakes, Cheese",206,2024-12-08 17:30:00
+2024-12-09 00:00:00,10:30:00,Veg Fingers,Appetizer,,,Pendng,"Veg Mix, Coating",67,2024-12-09 10:30:00
+2024-12-09 00:00:00,15:15:00,Kitkat Shake,Shake,,2,Done,"Milk, Kitkat, Chocolate",112,2024-12-09 15:15:00
+2024-12-09 00:00:00,16:00:00,Choemain,Noodles,,1,Cancelld,"Noodles, Vegetables, Sauce",40,2024-12-09 16:00:00
+2024-12-10 00:00:00,14:45:00,Red Sauce Pasta,Pasta,,2,,"Pasta, Red Sauce, Herbs",226,2024-12-10 14:45:00
+2024-12-10 00:00:00,19:30:00,Spicy Paneer,Burger,,1,Pendng,"Paneer Patty, Spices, Onion",140,2024-12-10 19:30:00
+2024-12-10 00:00:00,19:30:00,Spicy Paneer,Burger,,1,Pendng,"Paneer Patty, Spices, Onion",140,2024-12-10 19:30:00
+2024-12-10 00:00:00,19:30:00,Spicy Paneer,Burger,,1,Pendng,"Paneer Patty, Spices, Onion",140,2024-12-10 19:30:00
+2024-12-10 00:00:00,20:45:00,Aloo Tikki Wrap,Wrap,,1,,"Tikki, Onion, Sauce",,2024-12-10 20:45:00
+2024-12-11 00:00:00,11:00:00,Paneer Special,Pizza,Small,1,Done,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",184,2024-12-11 11:00:00
+2024-12-11 00:00:00,11:00:00,Paneer Special,Pizza,Small,1,Done,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",184,2024-12-11 11:00:00
+2024-12-11 00:00:00,14:00:00,Red Sauce Pasta,Pasta,,1,Completed,"Pasta, Red Sauce, Herbs",221,2024-12-11 14:00:00
+2024-12-11 00:00:00,15:15:00,Margherita,Pizza,Small,4,Done,Classic Cheese,286,2024-12-11 15:15:00
+2024-12-11 00:00:00,15:15:00,Margherita,Pizza,Small,4,Done,Classic Cheese,286,2024-12-11 15:15:00
+2024-12-11 00:00:00,15:15:00,Margherita,Pizza,Small,4,Done,Classic Cheese,286,2024-12-11 15:15:00
+2024-12-11 00:00:00,17:15:00,Paneer Special,Pizza,Small,1,Done,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",184,2024-12-11 17:15:00
+2024-12-11 00:00:00,20:15:00,Green Apple,Drink,,4,,"Green Apple Syrup, Soda",205,2024-12-11 20:15:00
+2024-12-11 00:00:00,22:00:00,Cold Coffee,Drink,,3,Completed,,239,2024-12-11 22:00:00
+2024-12-12 00:00:00,10:45:00,Aloo Tikki Wrap,Wrap,,2,Done,"Tikki, Onion, Sauce",284,2024-12-12 10:45:00
+2024-12-12 00:00:00,12:30:00,Mix Sauce Pasta,Pasta,,3,,"Pasta, Red Sauce, White Sauce, Veggies",297,2024-12-12 12:30:00
+2024-12-12 00:00:00,15:45:00,Cheesy Fire House,Burger,,3,Pendng,"Spicy Patty, Cheese, Lettuce",230,2024-12-12 15:45:00
+2024-12-12 00:00:00,15:45:00,Cheesy Fire House,Burger,,3,Pendng,"Spicy Patty, Cheese, Lettuce",230,2024-12-12 15:45:00
+2024-12-12 00:00:00,16:00:00,Corn,Pizza,,2,Cancelld,"Cheese, Corn",216,2024-12-12 16:00:00
+2024-12-12 00:00:00,16:00:00,Corn,Pizza,,2,Cancelld,"Cheese, Corn",216,2024-12-12 16:00:00
+2024-12-12 00:00:00,16:00:00,Corn,Pizza,,2,Cancelld,"Cheese, Corn",216,2024-12-12 16:00:00
+2024-12-12 00:00:00,17:00:00,Cheesy Fire House,Burger,,3,Pendng,"Spicy Patty, Cheese, Lettuce",230,2024-12-12 17:00:00
+2024-12-12 00:00:00,18:30:00,Mint Mojito,Drink,,,Completed,"Mint, Soda, Lime",73,2024-12-12 18:30:00
+2024-12-13 00:00:00,11:30:00,White Sauce Pasta,Pasta,,3,Completed,"Pasta, White Sauce, Corn",160,2024-12-13 11:30:00
+2024-12-13 00:00:00,13:00:00,OTC,Pizza,Small,1,Completed,"Cheese, Onion, Tomato, Capsicum",271,2024-12-13 13:00:00
+2024-12-13 00:00:00,13:00:00,OTC,Pizza,Small,1,Completed,"Cheese, Onion, Tomato, Capsicum",271,2024-12-13 13:00:00
+2024-12-13 00:00:00,15:45:00,Paneer Wrap,Wrap,,1,Done,"Paneer, Sauce, Onion",105,2024-12-13 15:45:00
+2024-12-13 00:00:00,17:00:00,OTC,Pizza,Small,1,Completed,"Cheese, Onion, Tomato, Capsicum",271,2024-12-13 17:00:00
+2024-12-13 00:00:00,19:15:00,Paneer Special,Pizza,Medium,3,Cancelld,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",116,2024-12-13 19:15:00
+2024-12-13 00:00:00,19:15:00,Paneer Special,Pizza,Medium,3,Cancelld,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",116,2024-12-13 19:15:00
+2024-12-13 00:00:00,19:15:00,Paneer Special,Pizza,Medium,3,Cancelld,"Cheese, Onion, Capsicum, Tomato, Paneer, Red Paprika",116,2024-12-13 19:15:00
+2024-12-13 00:00:00,21:15:00,Kitkat Shake,Shake,,4,Pendng,"Milk, Kitkat, Chocolate",117,2024-12-13 21:15:00
+2024-12-14 00:00:00,11:00:00,Paneer Pizza,Pizza,,2,Cancelld,"Cheese, Paneer, Onion, Tomato",177,2024-12-14 11:00:00
+2024-12-14 00:00:00,11:00:00,Paneer Pizza,Pizza,,2,Cancelld,"Cheese, Paneer, Onion, Tomato",177,2024-12-14 11:00:00
+2024-12-14 00:00:00,14:45:00,Strawberry Shake,Shake,,1,Done,"Milk, Strawberry Syrup",94,2024-12-14 14:45:00
+2024-12-14 00:00:00,17:00:00,Cold Coff33,Drink,,2,Completed,"Coffee, Milk, Sugar",180,2024-12-14 17:00:00
+2024-12-14 00:00:00,19:15:00,Veggie Overloaded,Pizza,,1,Completed,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",40,2024-12-14 19:15:00
+2024-12-14 00:00:00,19:15:00,Veggie Overloaded,Pizza,,1,Completed,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",40,2024-12-14 19:15:00
+2024-12-14 00:00:00,19:15:00,Veggie Overloaded,Pizza,,1,Completed,"Cheese, Onion, Capsicum, Mushroom, Red Paprika, Black Olives",40,2024-12-14 19:15:00
+2024-12-14 00:00:00,20:30:00,Paneer Pizza,Pizza,,2,Cancelld,"Cheese, Paneer, Onion, Tomato",177,2024-12-14 20:30:00
+2024-12-15 00:00:00,11:00:00,Exotica,Pizza,Medium,1,Completed,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",60,2024-12-15 11:00:00
+2024-12-15 00:00:00,11:00:00,Exotica,Pizza,Medium,1,Completed,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",60,2024-12-15 11:00:00
+2024-12-15 00:00:00,12:00:00,Kitkat Shake,Shake,,2,,"Milk, Kitkat, Chocolate",80,2024-12-15 12:00:00
+2024-12-15 00:00:00,16:00:00,Choemain,Noodles,,2,Pendng,"Noodles, Vegetables, Sauce",283,2024-12-15 16:00:00
+2024-12-15 00:00:00,17:00:00,Peri Peri Fries,Appetizer,,1,,"Potato, Peri Peri Masala",206,2024-12-15 17:00:00
+2024-12-15 00:00:00,17:00:00,Exotica,Pizza,Medium,1,Completed,"Capsicum, Red Paprika, Jalapeno, Black Olives, Baby Corn",60,2024-12-15 17:00:00
+2024-12-16 00:00:00,10:45:00,Vegetable Maggie,Maggie,,1,,"Maggie, Vegetables, Spices",266,2024-12-16 10:45:00
+2024-12-16 00:00:00,20:15:00,Paneer Pizza,Pizza,,1,,"Cheese, Paneer, Onion, Tomato",229,2024-12-16 20:15:00
+2024-12-16 00:00:00,20:15:00,Paneer Pizza,Pizza,,1,,"Cheese, Paneer, Onion, Tomato",229,2024-12-16 20:15:00
+2024-12-16 00:00:00,20:15:00,Paneer Pizza,Pizza,,1,,"Cheese, Paneer, Onion, Tomato",229,2024-12-16 20:15:00
+2024-12-17 00:00:00,12:00:00,Herb Chili Potato,Burger,,1,Completed,"Potato Patty, Herbs, Chili Flakes",,2024-12-17 12:00:00
+2024-12-17 00:00:00,12:00:00,Herb Chili Potato,Burger,,1,Completed,"Potato Patty, Herbs, Chili Flakes",,2024-12-17 12:00:00
+2024-12-17 00:00:00,12:00:00,Herb Chili Potato,Burger,,1,Completed,"Potato Patty, Herbs, Chili Flakes",,2024-12-17 12:00:00
+2024-12-17 00:00:00,16:00:00,Margherita,Pizza,Small,2,,Classic Cheese,293,2024-12-17 16:00:00
+2024-12-17 00:00:00,16:00:00,Margherita,Pizza,Small,2,,Classic Cheese,293,2024-12-17 16:00:00
+2024-12-17 00:00:00,17:00:00,Margherita,Pizza,Small,2,,Classic Cheese,293,2024-12-17 17:00:00
+2024-12-18 00:00:00,11:00:00,Spicy Paneer,Burger,,1,,"Paneer Patty, Spices, Onion",260,2024-12-18 11:00:00
+2024-12-18 00:00:00,14:30:00,Regular Fries,Appetizer,,1,Completed,"Potato, Salt",87,2024-12-18 14:30:00
+2024-12-18 00:00:00,15:15:00,Herb Chili Potato,Burger,,1,Cancelld,"Potato Patty, Herbs, Chili Flakes",67,2024-12-18 15:15:00
+2024-12-18 00:00:00,15:15:00,Herb Chili Potato,Burger,,1,Cancelld,"Potato Patty, Herbs, Chili Flakes",67,2024-12-18 15:15:00
+2024-12-18 00:00:00,15:15:00,Herb Chili Potato,Burger,,1,Cancelld,"Potato Patty, Herbs, Chili Flakes",67,2024-12-18 15:15:00
+2024-12-18 00:00:00,17:00:00,Spicy Paneer,Burger,,1,,"Paneer Patty, Spices, Onion",260,2024-12-18 17:00:00
+2024-12-18 00:00:00,17:15:00,Oreo Shake,Shake,,2,Completed,"Milk, Oreo, Chocolate",59,2024-12-18 17:15:00
+2024-12-18 00:00:00,21:45:00,Country Feast,Pizza,,1,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",100,2024-12-18 21:45:00
+2024-12-18 00:00:00,21:45:00,Country Feast,Pizza,,1,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",100,2024-12-18 21:45:00
+2024-12-18 00:00:00,21:45:00,Country Feast,Pizza,,1,Pendng,"Cheese, Onion, Capsicum, Tomato, Mushroom, Sweet Corn",100,2024-12-18 21:45:00
+2024-12-18 00:00:00,22:00:00,Spicy Paneer,Burger,,1,,"Paneer Patty, Spices, Onion",260,2024-12-18 22:00:00
+2024-12-19 00:00:00,11:00:00,Onion,Pizza,Medium,2,Cancelld,"Cheese, Onion",213,2024-12-19 11:00:00
+2024-12-19 00:00:00,17:00:00,Oreo Shake,Shake,,1,Cancelld,"Milk, Oreo, Chocolate",283,2024-12-19 17:00:00
+2024-12-19 00:00:00,20:00:00,Onion,Pizza,Medium,2,Cancelld,"Cheese, Onion",213,2024-12-19 20:00:00
+2024-12-19 00:00:00,20:00:00,Onion,Pizza,Medium,2,Cancelld,"Cheese, Onion",213,2024-12-19 20:00:00
+2024-12-20 00:00:00,11:00:00,Spicy Veggie,Pizza,,3,,"Cheese, Onion, Green Chili",145,2024-12-20 11:00:00
+2024-12-20 00:00:00,11:00:00,Spicy Veggie,Pizza,,3,,"Cheese, Onion, Green Chili",145,2024-12-20 11:00:00
+2024-12-20 00:00:00,11:00:00,Spicy Veggie,Pizza,,3,,"Cheese, Onion, Green Chili",145,2024-12-20 11:00:00
+2024-12-20 00:00:00,11:30:00,Onion,Pizza,Medium,3,,"Cheese, Onion",125,2024-12-20 11:30:00
+2024-12-20 00:00:00,13:45:00,Spicy Paneer,Burger,,1,Done,"Paneer Patty, Spices, Onion",185,2024-12-20 13:45:00
+2024-12-20 00:00:00,13:45:00,Spicy Paneer,Burger,,1,Done,"Paneer Patty, Spices, Onion",185,2024-12-20 13:45:00
+2024-12-20 00:00:00,13:45:00,Spicy Paneer,Burger,,1,Done,"Paneer Patty, Spices, Onion",185,2024-12-20 13:45:00
+2024-12-20 00:00:00,17:00:00,Onion,Pizza,Medium,3,,"Cheese, Onion",125,2024-12-20 17:00:00
+2024-12-20 00:00:00,17:00:00,Onion,Pizza,Medium,3,,"Cheese, Onion",125,2024-12-20 17:00:00
+2024-12-20 00:00:00,20:15:00,Cheesy Fire House,Burger,,1,Pendng,"Spicy Patty, Cheese, Lettuce",169,2024-12-20 20:15:00
+2024-12-20 00:00:00,20:15:00,Cheesy Fire House,Burger,,1,Pendng,"Spicy Patty, Cheese, Lettuce",169,2024-12-20 20:15:00
+2024-12-20 00:00:00,20:15:00,Cheesy Fire House,Burger,,1,Pendng,"Spicy Patty, Cheese, Lettuce",169,2024-12-20 20:15:00
+2024-12-21 00:00:00,10:15:00,Paneer Wrap,Wrap,,2,Done,"Paneer, Sauce, Onion",190,2024-12-21 10:15:00
+2024-12-21 00:00:00,11:00:00,Veg Popular,Burger,,2,Completed,"Veg Patty, Lettuce, Tomato",165,2024-12-21 11:00:00
+2024-12-21 00:00:00,18:45:00,Veg Popular,Burger,,2,Completed,"Veg Patty, Lettuce, Tomato",165,2024-12-21 18:45:00
+2024-12-21 00:00:00,18:45:00,Veg Popular,Burger,,2,Completed,"Veg Patty, Lettuce, Tomato",165,2024-12-21 18:45:00
+2024-12-22 00:00:00,13:15:00,Country Feast,Pizza,,1,Cancelld,,272,2024-12-22 13:15:00
+2024-12-22 00:00:00,13:15:00,Country Feast,Pizza,,1,Cancelld,,272,2024-12-22 13:15:00
+2024-12-22 00:00:00,13:15:00,Country Feast,Pizza,,1,Cancelld,,272,2024-12-22 13:15:00
+2024-12-22 00:00:00,22:15:00,Mint Mojito,Drink,,2,Pendng,"Mint, Soda, Lime",268,2024-12-22 22:15:00
+2024-12-23 00:00:00,11:00:00,Country Feast,Pizza,Medium,1,Pendng,,215,2024-12-23 11:00:00
+2024-12-23 00:00:00,11:00:00,Sandwich Cheese,Sandwich,,2,Completed,"Bread, Cheese, Butter",71,2024-12-23 11:00:00
+2024-12-23 00:00:00,12:45:00,Country Feast,Pizza,Medium,1,Pendng,,215,2024-12-23 12:45:00
+2024-12-23 00:00:00,12:45:00,Country Feast,Pizza,Medium,1,Pendng,,215,2024-12-23 12:45:00
+2024-12-23 00:00:00,17:15:00,Oreo Shake,Shake,,1,Completed,"Milk, Oreo, Chocolate",226,2024-12-23 17:15:00
+2024-12-23 00:00:00,22:30:00,Chocolate Shake,Shake,,1,,"Milk, Chocolate Syrup",281,2024-12-23 22:30:00
+2024-12-24 00:00:00,10:00:00,Choemain,Noodles,,3,Completed,"Noodles, Vegetables, Sauce",157,2024-12-24 10:00:00
+2024-12-24 00:00:00,11:15:00,Momos,Momos,,1,Completed,"Dumplings, Veg Stuffing",98,2024-12-24 11:15:00
+2024-12-24 00:00:00,13:45:00,Oreo Shake,Shake,,3,Pendng,"Milk, Oreo, Chocolate",183,2024-12-24 13:45:00
+2024-12-24 00:00:00,15:15:00,Margherita,Pizza,Medium,2,Completed,Classic Cheese,238,2024-12-24 15:15:00
+2024-12-24 00:00:00,15:15:00,Margherita,Pizza,Medium,2,Completed,Classic Cheese,238,2024-12-24 15:15:00
+2024-12-24 00:00:00,15:15:00,Margherita,Pizza,Medium,2,Completed,Classic Cheese,238,2024-12-24 15:15:00
+2024-12-25 00:00:00,12:15:00,Double Trouble,Burger,,4,,"Double Patty, Cheese, Onion",139,2024-12-25 12:15:00
+2024-12-25 00:00:00,12:15:00,Double Trouble,Burger,,4,,"Double Patty, Cheese, Onion",139,2024-12-25 12:15:00
+2024-12-25 00:00:00,12:15:00,Double Trouble,Burger,,4,,"Double Patty, Cheese, Onion",139,2024-12-25 12:15:00
+2024-12-25 00:00:00,17:00:00,OTC,Pizza,Medium,3,Cancelld,"Cheese, Onion, Tomato, Capsicum",281,2024-12-25 17:00:00
+2024-12-25 00:00:00,18:00:00,OTC,Pizza,Medium,3,Cancelld,"Cheese, Onion, Tomato, Capsicum",281,2024-12-25 18:00:00
+2024-12-25 00:00:00,18:00:00,OTC,Pizza,Medium,3,Cancelld,"Cheese, Onion, Tomato, Capsicum",281,2024-12-25 18:00:00
+2024-12-26 00:00:00,11:00:00,Red Sauce Pasta,Pasta,,1,,"Pasta, Red Sauce, Herbs",89,2024-12-26 11:00:00
+2024-12-26 00:00:00,11:00:00,High Five,Pizza,,3,Done,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",42,2024-12-26 11:00:00
+2024-12-26 00:00:00,11:15:00,Momos,Momos,,1,Pendng,"Dumplings, Veg Stuffing",140,2024-12-26 11:15:00
+2024-12-26 00:00:00,17:45:00,High Five,Pizza,,3,Done,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",42,2024-12-26 17:45:00
+2024-12-26 00:00:00,17:45:00,High Five,Pizza,,3,Done,"Cheese, Onion, Capsicum, Tomato, Mushroom, Red Paprika",42,2024-12-26 17:45:00
+2024-12-27 00:00:00,10:00:00,Mojito Blast,Drink,,3,Cancelld,"Mint, Lemon, Ice, Soda",123,2024-12-27 10:00:00
+2024-12-27 00:00:00,11:00:00,Kitkat Shake,Shake,,1,,,63,2024-12-27 11:00:00
+2024-12-27 00:00:00,16:00:00,Chocolate Shake,Shake,,2,Done,"Milk, Chocolate Syrup",,2024-12-27 16:00:00
+2024-12-27 00:00:00,16:00:00,Cold Coffee,Drink,,2,Cancelld,"Coffee, Milk, Sugar",189,2024-12-27 16:00:00
+2024-12-28 00:00:00,11:00:00,Double Trouble,Burger,,2,Completed,"Double Patty, Cheese, Onion",257,2024-12-28 11:00:00
+2024-12-28 00:00:00,13:15:00,Red Sauce Pasta,Pasta,,2,Done,"Pasta, Red Sauce, Herbs",192,2024-12-28 13:15:00
+2024-12-28 00:00:00,13:30:00,Chili Garlic Pops,Appetizer,,1,Cancelld,"Potato, Garlic, Chili Flakes",195,2024-12-28 13:30:00
+2024-12-28 00:00:00,15:30:00,Paneer Pizza,Pizza,Medium,2,Done,"Cheese, Paneer, Onion, Tomato",250,2024-12-28 15:30:00
+2024-12-28 00:00:00,15:30:00,Paneer Pizza,Pizza,Medium,2,Done,"Cheese, Paneer, Onion, Tomato",250,2024-12-28 15:30:00
+2024-12-28 00:00:00,15:30:00,Paneer Pizza,Pizza,Medium,2,Done,"Cheese, Paneer, Onion, Tomato",250,2024-12-28 15:30:00
+2024-12-28 00:00:00,17:00:00,Double Trouble,Burger,,2,Completed,"Double Patty, Cheese, Onion",257,2024-12-28 17:00:00
+2024-12-28 00:00:00,17:00:00,Double Trouble,Burger,,2,Completed,"Double Patty, Cheese, Onion",257,2024-12-28 17:00:00
+2024-12-28 00:00:00,19:00:00,Cold Coffee,Drink,,2,Completed,"Coffee, Milk, Sugar",99,2024-12-28 19:00:00
