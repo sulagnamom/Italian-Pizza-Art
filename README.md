@@ -1,9 +1,9 @@
-# Machine Learning Project on Retail Sales Forecasting
+# Italian Pizza Art Sales Analysis
 
 [View Full Power BI Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiYTY2MDYwOTUtMzU3Yi00ZjY4LWE4NWEtMTc2N2UyYzFmZTU0IiwidCI6ImU3NmE3NTM0LThhNzQtNGE2Mi1hZGZkLThmODg1NThlZjM1MSJ9)
 
 
-1. **Project Background**
+1. # Project Background
     
     Designed and deployed a dynamic Power BI dashboard for a food retail business, showcasing insights from 5 months of transactional data. Cleaned and transformed raw menu data using Python and Excel, balanced item counts to improve visualization accuracy, and derived actionable insights on category revenue, peak hours, and top-selling items.
     
